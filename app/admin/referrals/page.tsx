@@ -9,7 +9,6 @@ import {
   User, 
   Mail, 
   Phone,
-  ArrowRightLeft,
   CheckCircle,
   XCircle,
   Clock
