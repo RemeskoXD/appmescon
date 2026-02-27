@@ -1,0 +1,159 @@
+/* Partner marquee background (nuxt-style, 3-row infinite loop). */
+.partners-marquee-bg {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.partners-marquee {
+  /* Speed + sizing knobs (slow, calm, nuxt-like) */
+  /* ~80–120s jeden průjezd podle řady */
+  --pm-row-1-speed: 110s;
+  --pm-row-2-speed: 140s;
+  --pm-row-3-speed: 110s;
+  --pm-row-1-delay: -32s;
+  --pm-row-2-delay: -78s;
+  --pm-row-3-delay: -32s;
+
+  --pm-logo-height: clamp(48px, 5vw, 56px);
+  --pm-logo-opacity: 0.66;
+  --pm-logo-hover-opacity: 0.9;
+  --pm-row-gap: clamp(8px, 2vw, 16px);
+  --pm-logo-gap: clamp(12px, 2.5vw, 26px);
+  --pm-logo-slot: clamp(112px, 9.5vw, 156px);
+  --pm-edge-fade: 14%;
+
+  position: absolute;
+  inset: -16% 0 0 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: var(--pm-row-gap);
+  transform: none;
+  transform-origin: center;
+}
+
+.partners-marquee__row {
+  display: flex;
+  overflow: hidden;
+  width: 100%;
+  min-height: calc(var(--pm-logo-height) + 16px);
+  mask-image: linear-gradient(
+    to right,
+    transparent 0%,
+    black var(--pm-edge-fade),
+    black calc(100% - var(--pm-edge-fade)),
+    transparent 100%
+  );
+  -webkit-mask-image: linear-gradient(
+    to right,
+    transparent 0%,
+    black var(--pm-edge-fade),
+    black calc(100% - var(--pm-edge-fade)),
+    transparent 100%
+  );
+}
+
+.partners-marquee__row--1 { --pm-speed: var(--pm-row-1-speed); --pm-delay: var(--pm-row-1-delay); }
+.partners-marquee__row--2 { --pm-speed: var(--pm-row-2-speed); --pm-delay: var(--pm-row-2-delay); }
+.partners-marquee__row--3 { --pm-speed: var(--pm-row-3-speed); --pm-delay: var(--pm-row-3-delay); }
+
+.partners-marquee__row--reverse .partners-marquee__track {
+  animation-direction: reverse;
+}
+
+.partners-marquee__track {
+  display: flex;
+  align-items: center;
+  width: max-content;
+  animation: partners-marquee var(--pm-speed) linear infinite;
+  animation-delay: var(--pm-delay);
+  will-change: transform;
+  backface-visibility: hidden;
+  transform: translateX(0);
+}
+
+.partners-marquee__row-content {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  gap: var(--pm-logo-gap);
+  width: max-content;
+  padding-right: var(--pm-logo-gap);
+}
+
+.partners-marquee__item {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: var(--pm-logo-slot);
+  opacity: var(--pm-logo-opacity);
+  transition: opacity 200ms ease, transform 200ms ease, filter 200ms ease;
+  pointer-events: auto;
+}
+
+.partners-marquee__logo {
+  height: var(--pm-logo-height);
+  width: auto;
+  object-fit: contain;
+  max-width: 100%;
+  display: block;
+  filter: saturate(1.02) contrast(1.02) brightness(1.06);
+  opacity: 1;
+  user-select: none;
+}
+
+.partners-marquee__item:hover {
+  opacity: var(--pm-logo-hover-opacity);
+  transform: scale(1.03);
+}
+
+.partners-marquee__item:hover .partners-marquee__logo {
+  filter: saturate(1.08) contrast(1.05) brightness(1.1);
+  opacity: 1;
+}
+
+.partners-marquee__overlay {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  pointer-events: none;
+  background:
+    radial-gradient(circle at 50% 45%, rgba(88,133,250,0.10), transparent 62%),
+    linear-gradient(180deg, rgba(2,6,23,0.82) 0%, rgba(2,6,23,0.42) 45%, rgba(2,6,23,0.86) 100%);
+  backdrop-filter: blur(1px);
+}
+
+@keyframes partners-marquee {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+@media (max-width: 768px) {
+  .partners-marquee {
+    /* ještě pomalejší na mobilech, klidný ambientní pohyb */
+    --pm-row-1-speed: 120s;
+    --pm-row-2-speed: 150s;
+    --pm-row-3-speed: 120s;
+    --pm-logo-height: clamp(46px, 10vw, 54px);
+    --pm-logo-gap: clamp(10px, 4vw, 20px);
+    --pm-logo-slot: clamp(104px, 22vw, 148px);
+    --pm-edge-fade: 16%;
+    inset: -10% 0 0 0;
+    transform: none;
+  }
+
+  .partners-marquee__row--3 {
+    display: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .partners-marquee__track {
+    animation: none !important;
+    transform: translateX(0) !important;
+  }
+}

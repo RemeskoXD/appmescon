@@ -1,0 +1,478 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Utility pro skrytí scrollbaru */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Custom scrollbar pro mobilní menu a panely */
+.custom-scroll::-webkit-scrollbar {
+  width: 6px;
+}
+.custom-scroll::-webkit-scrollbar-track {
+  background: transparent;
+}
+.custom-scroll::-webkit-scrollbar-thumb {
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 20px;
+}
+.custom-scroll::-webkit-scrollbar-thumb:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+/* Safe area padding pro iOS */
+.safe-area-pb {
+  padding-bottom: env(safe-area-inset-bottom);
+}
+
+/* Scrollbar (volitelně jemná) */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #272a3d transparent;
+}
+*::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+*::-webkit-scrollbar-track {
+  background: transparent;
+}
+*::-webkit-scrollbar-thumb {
+  background: #272a3d;
+  border-radius: 20px;
+}
+
+html, body {
+  height: 100%;
+  --bg-top: #020617;
+  --bg-mid1: #040a17;
+  --bg-mid2: #050c1f;
+  --bg-deep: #060e24; /* finální velmi tmavá námořní */
+  --accent-blue: #5885fa;
+  --page-gap: clamp(1rem, 4vw, 2.5rem);
+  --content-max: 1400px;
+  --divider: #1e2334;
+  color: #e5e7eb;
+  font-feature-settings: "liga" 1, "calt" 1;
+  -webkit-font-smoothing: antialiased;
+  background:
+    linear-gradient(180deg, var(--bg-top) 0%, var(--bg-mid1) 26%, var(--bg-mid2) 58%, var(--bg-deep) 100%);
+  background-attachment: fixed, fixed;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+/* Fixní kontejner pro stránky – vzhled je fixní dle breakpointů */
+.page-container {
+  width: min(var(--content-max), 100%);
+  padding-left: var(--page-gap);
+  padding-right: var(--page-gap);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Globální částice (subtilní, výkon: čistě CSS bez JS) */
+body::before, body::after {
+  content: "";
+  position: fixed; inset: 0; pointer-events: none; z-index: -1;
+}
+@keyframes floatParticlesA { 0% { transform: translateY(0); } 100% { transform: translateY(-60px); } }
+@keyframes floatParticlesB { 0% { transform: translateY(0); } 100% { transform: translateY(-90px); } }
+body::before {
+  background-image:
+    radial-gradient(circle at 10% 15%, rgba(88,133,250,0.22) 0%, rgba(88,133,250,0) 60%),
+    radial-gradient(circle at 80% 55%, rgba(88,133,250,0.18) 0%, rgba(88,133,250,0) 60%);
+  mix-blend-mode: overlay;
+  opacity: .55;
+  animation: floatParticlesA 24s linear infinite alternate;
+}
+body::after {
+  background-image:
+    repeating-linear-gradient(135deg, rgba(88,133,250,0.12) 0 2px, transparent 2px 150px),
+    radial-gradient(circle at 65% 80%, rgba(88,133,250,0.16), transparent 65%);
+  mix-blend-mode: overlay;
+  opacity: .32;
+  animation: floatParticlesB 38s linear infinite alternate;
+}
+
+/* Sekce budou transparentní / poloprůhledné panely se už používají => netřeba samostatné sekční gradienty */
+
+:root {
+  --duration-fast: 160ms;
+  --duration: 190ms;
+  --accent-brand: #5885fa; /* hlavní modrý brand */
+}
+
+.focus-ring:focus-visible {
+  outline: 2px solid #5885fa;
+  outline-offset: 2px;
+}
+
+.menu-locked {
+  cursor: not-allowed;
+}
+
+.menu-locked__tooltip {
+  position: absolute;
+  right: 10px;
+  top: 6px;
+  transform: translateY(-6px);
+  padding: 2px 6px;
+  border-radius: 6px;
+  font-size: 10px;
+  line-height: 1.2;
+  color: #d6e3ff;
+  background: rgba(12, 16, 26, 0.92);
+  border: 1px solid rgba(88, 133, 250, 0.2);
+  white-space: nowrap;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity var(--duration-fast) ease, transform var(--duration-fast) ease;
+  z-index: 5;
+}
+
+.menu-locked:hover .menu-locked__tooltip {
+  opacity: 1;
+  transform: translateY(-10px);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 1ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 1ms !important;
+  }
+}
+
+/* --------------------------------------------- */
+/* Hero (úvodní sekce) – lokální vlastní pozadí  */
+/* --------------------------------------------- */
+.hero-intro {
+  position: relative;
+  overflow: hidden;
+  background:
+    radial-gradient(circle at 22% 28%, rgba(88,133,250,0.32), transparent 60%),
+    radial-gradient(circle at 78% 24%, rgba(88,133,250,0.22), transparent 65%),
+    linear-gradient(180deg, rgba(6,10,24,0.95) 0%, rgba(6,9,23,0.9) 55%, rgba(5,9,21,0.86) 75%, rgba(5,8,20,0.0) 100%);
+  background-size: cover, cover, 100% 100%;
+  background-repeat: no-repeat;
+}
+.hero-intro::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image:
+    linear-gradient(rgba(255,255,255,0.05) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255,255,255,0.05) 1px, transparent 1px);
+  background-size: 46px 46px, 46px 46px;
+  mask: linear-gradient(to bottom, rgba(255,255,255,0.55), rgba(255,255,255,0.15) 40%, transparent 80%);
+  pointer-events: none;
+  z-index: 0;
+}
+.hero-intro::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background:
+    repeating-linear-gradient(130deg, rgba(88,133,250,0.14) 0 2px, transparent 2px 130px),
+    radial-gradient(circle at 65% 70%, rgba(88,133,250,0.18), transparent 60%);
+  mix-blend-mode: overlay;
+  opacity: .28;
+  pointer-events: none;
+  z-index: 1;
+}
+/* extra bottom fade for smoother transition */
+.hero-intro {
+  -webkit-mask-image: linear-gradient(to bottom, black 80%, transparent 100%);
+          mask-image: linear-gradient(to bottom, black 80%, transparent 100%);
+}
+@keyframes heroPulseMetric { 0% { transform: scale(1); } 50% { transform: scale(1.04); } 100% { transform: scale(1); } }
+.metric-card:hover { box-shadow: 0 8px 24px -6px rgba(0,0,0,0.55); }
+.metric-value { animation: heroPulseMetric 6s ease-in-out infinite; }
+
+/* Klientský karusel (nekonečný posun log) */
+@keyframes clients-scroll { 0% { transform: translateX(0); } 100% { transform: translateX(-50%); } }
+.clients-carousel-track {
+  display: flex;
+  width: max-content;
+  animation: clients-scroll 28s linear infinite;
+}
+.clients-carousel:hover .clients-carousel-track { animation-play-state: paused; }
+.clients-carousel-item {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.75rem 1.75rem;
+  opacity: 0.85;
+  transition: opacity 160ms ease, filter 160ms ease;
+  filter: grayscale(35%);
+}
+.clients-carousel-item:hover { opacity: 1; filter: grayscale(0%); }
+.clients-fade-edge {
+  pointer-events: none;
+  position: absolute;
+  top: 0; bottom: 0;
+  width: 110px;
+  z-index: 5;
+}
+.clients-fade-left {
+  left: 0;
+  background: linear-gradient(90deg, rgba(13,14,23,0.95), rgba(13,14,23,0));
+}
+.clients-fade-right {
+  right: 0;
+  background: linear-gradient(270deg, rgba(13,14,23,0.95), rgba(13,14,23,0));
+}
+
+/* Globální partnerský marquee – dostupný i na homepage */
+@keyframes partner-marquee {
+  0% { transform: translate3d(0, 0, 0); }
+  100% { transform: translate3d(-33.3333%, 0, 0); }
+}
+.animate-partner-marquee {
+  animation: partner-marquee 22s linear infinite;
+  width: max-content;
+}
+
+/* Jemné vnitřní stíny na koncích boxu (vypadá lépe s gradienty) */
+.partner-rail {
+  box-shadow:
+    inset 0 0 28px rgba(9,12,22,.35),
+    inset 40px 0 50px -30px rgba(9,12,22,.35),
+    inset -40px 0 50px -30px rgba(9,12,22,.35);
+}
+
+/* sjednocené dělicí linky */
+.border-slate-800\/60,
+.border-slate-800\/70 {
+  border-color: var(--divider) !important;
+}
+
+/* Scroll reveal animace */
+:root { --ease-out-soft: cubic-bezier(.25,.46,.24,1); }
+.reveal { opacity: 0; transform: translateY(26px); transition: opacity .8s var(--ease-out-soft), transform .8s var(--ease-out-soft); }
+.reveal.in-view { opacity: 1; transform: translateY(0); }
+.reveal-delay-1 { transition-delay: .08s; }
+.reveal-delay-2 { transition-delay: .16s; }
+.reveal-delay-3 { transition-delay: .24s; }
+.reveal-delay-4 { transition-delay: .32s; }
+
+/* Floating animation for decorative elements */
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-20px); }
+}
+.animate-float { animation: float 6s ease-in-out infinite; }
+
+/* Neon glow pulse */
+@keyframes neon-pulse {
+  0%, 100% { filter: drop-shadow(0 0 2px currentColor) drop-shadow(0 0 8px currentColor); }
+  50% { filter: drop-shadow(0 0 4px currentColor) drop-shadow(0 0 16px currentColor); }
+}
+.neon-pulse { animation: neon-pulse 3s ease-in-out infinite; }
+
+/* Produktové karty (2x2 grid) */
+.product-card {
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(145deg, rgba(16,19,29,0.95) 0%, rgba(19,22,36,0.92) 55%, rgba(19,22,36,0.88) 100%);
+  border: 1px solid #23283a;
+  border-radius: 1rem;
+  backdrop-filter: blur(6px);
+  transition: border-color 200ms ease, transform 280ms cubic-bezier(.34,.9,.28,1.2), box-shadow 200ms ease;
+}
+.product-square { aspect-ratio: 1 / 1; }
+@supports not (aspect-ratio: 1 / 1) {
+  .product-square { position: relative; }
+  .product-square::before { content: ""; display: block; padding-top: 100%; }
+  .product-square > * { position: absolute; inset: 0; }
+}
+.product-card--square { padding: 1rem; }
+.product-card--square .product-graphic { min-height: 0; height: auto; flex: 1; display: flex; align-items: stretch; }
+.product-card--square .product-graphic > svg, 
+.product-card--square .product-graphic > .grid, 
+.product-card--square .product-graphic > div { width: 100%; height: 100%; }
+.product-card--square .product-graphic img, 
+.product-card--square .product-graphic svg { object-fit: cover; }
+.product-card--square h3 { margin-top: .75rem; }
+.product-card--square p { font-size: .8rem; max-height: 2.5rem; overflow: hidden; }
+.product-card::before {
+  content: "";
+  position: absolute; inset: 0;
+  background:
+    radial-gradient(circle at 75% 25%, rgba(88,133,250,0.18), transparent 60%),
+    radial-gradient(circle at 20% 75%, rgba(56,189,248,0.15), transparent 60%);
+  opacity: .7;
+  mix-blend-mode: overlay;
+  pointer-events: none;
+  transition: opacity 300ms ease;
+}
+.product-card:hover { border-color: #2d3347; transform: translateY(-4px); box-shadow: 0 18px 40px -14px rgba(0,0,0,0.55); }
+.product-card:hover::before { opacity: 1; }
+.product-card h3 { letter-spacing: -0.5px; }
+.product-graphic {
+  position: relative;
+  overflow: hidden;
+  border: 1px solid #23283a;
+  background: linear-gradient(135deg, #141823 0%, #10141f 100%);
+  border-radius: 0.75rem;
+  padding: 1rem 1.1rem 1.2rem;
+  display: grid;
+  gap: .5rem;
+  min-height: 160px;
+}
+.product-graphic::after {
+  content: "";
+  position: absolute; inset: 0;
+  background: radial-gradient(circle at 65% 40%, rgba(88,133,250,0.18), transparent 70%);
+  mix-blend-mode: color-dodge; opacity: .6;
+  pointer-events: none;
+}
+.product-micro-row { display: flex; gap: .4rem; }
+.product-bar { height: 6px; border-radius: 4px; background: linear-gradient(90deg,#5885fa,#799dfb); }
+.product-chart-line { stroke: #799dfb; stroke-width: 2; fill: url(#productGrad) }
+.product-cta { position: relative; display: inline-flex; align-items: center; font-weight: 500; font-size: .875rem; gap: .4rem; }
+.product-cta span { transition: transform 200ms ease; display: inline-block; }
+.product-cta:hover span { transform: translateX(4px); }
+
+/* --------------------------------------------- */
+/* MESCON – technologické pozadí pod sliderem    */
+/* Varianta: minimalistická 3D mříž s částicemi  */
+/* --------------------------------------------- */
+.mescon-tech-bg {
+  position: relative;
+  height: clamp(280px, 42vh, 560px);
+  overflow: hidden;
+  background:
+    radial-gradient(1200px 420px at 50% 110%, color-mix(in oklab, var(--accent-brand) 30%, transparent) 0%, transparent 60%),
+    linear-gradient(180deg, rgba(10,15,28,0) 0%, rgba(10,15,28,0.8) 45%, rgba(9,13,24,1) 100%);
+}
+.mescon-tech-bg::before {
+  content: "";
+  position: absolute; left: -25%; right: -25%; bottom: -4%; top: -10%;
+  background-image:
+    linear-gradient(rgba(88,133,250,0.18) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(88,133,250,0.18) 1px, transparent 1px);
+  background-size: 44px 44px, 44px 44px;
+  opacity: .18;
+  transform-origin: bottom center;
+  transform: perspective(800px) rotateX(62deg);
+  animation: mesconGridFloat 18s ease-in-out infinite alternate;
+}
+.mescon-tech-bg::after {
+  content: "";
+  position: absolute; inset: 0; pointer-events: none;
+  background-image:
+    radial-gradient(circle at 15% 75%, rgba(88,133,250,0.18), transparent 40%),
+    radial-gradient(circle at 85% 70%, rgba(88,133,250,0.12), transparent 45%),
+    radial-gradient(circle at 55% 30%, rgba(56,189,248,0.12), transparent 40%);
+  mix-blend-mode: screen;
+  opacity: .35;
+  animation: mesconParticles 38s linear infinite alternate;
+}
+@keyframes mesconGridFloat {
+  0% { transform: perspective(800px) rotateX(62deg) translateY(0); }
+  100% { transform: perspective(800px) rotateX(62deg) translateY(14px); }
+}
+@keyframes mesconParticles {
+  0% { background-position: 0 0, 0 0, 0 0; }
+  100% { background-position: 0 -30px, 0 -20px, 0 -25px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .mescon-tech-bg::before, .mescon-tech-bg::after { animation: none !important; }
+}
+
+/* --------------------------------------------- */
+/* Hero Animations for Prezentacni Web          */
+/* --------------------------------------------- */
+@keyframes gradient {
+  0%, 100% {
+    background-size: 200% 200%;
+    background-position: left center;
+  }
+  50% {
+    background-size: 200% 200%;
+    background-position: right center;
+  }
+}
+
+.animate-gradient {
+  animation: gradient 6s ease infinite;
+  background-size: 200% 200%;
+}
+
+/* --------------------------------------------- */
+/* Legacy color overrides → unify to #5885fa      */
+/* This remaps older purple utilities/classes     */
+/* found in legacy pages to the new brand blue.   */
+/* --------------------------------------------- */
+/* Direct color utilities */
+:where([class*="text-[#b49bff]"]) { color: #5885fa !important; }
+:where([class*="bg-[#b49bff]"]) { background-color: #5885fa !important; }
+:where([class*="border-[#b49bff]"]) { border-color: #5885fa !important; }
+
+/* States */
+:where([class*="hover:text-[#b49bff]"]:hover) { color: #5885fa !important; }
+:where([class*="hover:bg-[#b49bff]"]:hover) { background-color: #5885fa !important; }
+:where([class*="hover:border-[#b49bff]"]:hover) { border-color: #5885fa !important; }
+
+/* Focus ring */
+:where([class*="focus:ring-[#b49bff]"]):focus,
+:where([class*="focus:ring-[#b49bff]"]):focus-visible { --tw-ring-color: #5885fa !important; }
+
+/* Gradients */
+:where([class*="from-[#b49bff]"]) {
+  --tw-gradient-from: #5885fa var(--tw-gradient-from-position);
+  --tw-gradient-to: rgb(88 133 250 / 0) var(--tw-gradient-to-position);
+  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
+}
+:where([class*="via-[#b49bff]"]) {
+  --tw-gradient-to: rgb(88 133 250 / 0) var(--tw-gradient-to-position);
+  --tw-gradient-stops: var(--tw-gradient-from), #5885fa var(--tw-gradient-via-position), var(--tw-gradient-to);
+}
+:where([class*="to-[#b49bff]"]) { --tw-gradient-to: #5885fa var(--tw-gradient-to-position); }
+
+/* Shadows using legacy rgba(180,155,255,…) */
+:where([class*="shadow-[0_10px_24px_rgba(180,155,255"]) {
+  box-shadow: 0 10px 24px rgba(88,133,250,0.28) !important;
+}
+:where([class*="shadow-[0_0_50px_rgba(180,155,255"]) {
+  box-shadow: 0 0 50px rgba(88,133,250,0.4) !important;
+}
+:where([class*="shadow-[#b49bff"]) { --tw-shadow-color: #5885fa !important; }
+
+/* Nuxt-style Hero Animation */
+@keyframes marquee-ltr {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+@keyframes marquee-rtl {
+  0% { transform: translateX(-50%); }
+  100% { transform: translateX(0); }
+}
+
+.animate-marquee-ltr {
+  animation: marquee-ltr 60s linear infinite;
+  width: max-content;
+  will-change: transform;
+}
+
+.animate-marquee-rtl {
+  animation: marquee-rtl 60s linear infinite;
+  width: max-content;
+  will-change: transform;
+}
+
+.animate-marquee-rtl-slow {
+  animation: marquee-rtl 90s linear infinite;
+  width: max-content;
+  will-change: transform;
+}

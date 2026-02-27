@@ -1,0 +1,2726 @@
+# OBCHODNÍ PODMÍNKY
+<a id="top"></a>
+
+## Obsah
+- [1. ÚVODNÍ USTANOVENÍ](#clanek-1-1)
+- [2. PŘEDMĚT SMLOUVY A POSKYTOVANÉ SLUŽBY](#clanek-1-2)
+- [3. UZAVŘENÍ SMLOUVY](#clanek-1-3)
+- [4. CENA SLUŽEB A PLATEBNÍ PODMÍNKY](#clanek-1-4)
+- [5. SOUČINNOST KLIENTA A DODÁNÍ PODKLADŮ](#clanek-1-5)
+- [6. PRÁVA A POVINNOSTI SMLUVNÍCH STRAN (základ)](#clanek-1-6)
+- [2. DEFINICE POJMŮ](#clanek-1-7)
+- [3. SLUŽBY – OBECNÁ USTANOVENÍ](#clanek-1-8)
+- [4. UZAVŘENÍ SMLOUVY](#clanek-1-9)
+- [5. PLATEBNÍ PODMÍNKY](#clanek-1-10)
+- [6. SANKCE A SMLUVNÍ POKUTY](#clanek-1-11)
+- [7. SLA A TECHNICKÉ ZÁRUKY](#clanek-1-12)
+- [8. SPOLUPRÁCE](#clanek-1-13)
+- [9. LICENCE A AUTORSKÁ PRÁVA](#clanek-1-14)
+- [10. REKLAMACE A SERVIS](#clanek-1-15)
+- [11. UKONČENÍ SMLOUVY](#clanek-1-16)
+- [12. BEZPEČNOST DAT](#clanek-1-17)
+
+[1. ÚVODNÍ USTANOVENÍ](https://www.notion.so/1-VODN-USTANOVEN-2c390623b4ba81cabfe8c8a2c371ed53?pvs=21)
+
+[**2. DEFINICE POJMŮ**](https://www.notion.so/2-DEFINICE-POJM-2c390623b4ba81ee8a6df0ba84c08754?pvs=21)
+
+[**3. SLUŽBY – OBECNÁ USTANOVENÍ**](https://www.notion.so/3-SLU-BY-OBECN-USTANOVEN-2c390623b4ba8156a903f109e40b2d05?pvs=21)
+
+[4. UZAVŘENÍ SMLOUVY](https://www.notion.so/4-UZAV-EN-SMLOUVY-2c390623b4ba81198339ffe96f406661?pvs=21)
+
+[5. PLATEBNÍ PODMÍNKY](https://www.notion.so/5-PLATEBN-PODM-NKY-2c390623b4ba813aa91bfaa6ea8bba98?pvs=21)
+
+[6. SANKCE A SMLUVNÍ POKUTY](https://www.notion.so/6-SANKCE-A-SMLUVN-POKUTY-2c390623b4ba814d9f99c49c7a0d5265?pvs=21)
+
+[7. SLA A TECHNICKÉ ZÁRUKY](https://www.notion.so/7-SLA-A-TECHNICK-Z-RUKY-2c390623b4ba8179904dd35db7ba6c1c?pvs=21)
+
+[8. SPOLUPRÁCE](https://www.notion.so/8-SPOLUPR-CE-2c390623b4ba813985aedd5f743dd5a3?pvs=21)
+
+[9. LICENCE A AUTORSKÁ PRÁVA](https://www.notion.so/9-LICENCE-A-AUTORSK-PR-VA-2c390623b4ba81779ad4c5f5ab7a4abc?pvs=21)
+
+[10. REKLAMACE A SERVIS](https://www.notion.so/10-REKLAMACE-A-SERVIS-2c390623b4ba81efa135d533ecd4ef23?pvs=21)
+
+[11. UKONČENÍ SMLOUVY](https://www.notion.so/11-UKON-EN-SMLOUVY-2c390623b4ba81b89521e1d1bd03da29?pvs=21)
+
+[12. BEZPEČNOST DAT](https://www.notion.so/12-BEZPE-NOST-DAT-2c490623b4ba8069984cf8d242250cc2?pvs=21)
+
+[GDPR – Zpracování osobních údajů](https://www.notion.so/GDPR-Zpracov-n-osobn-ch-daj-2c490623b4ba8096b23ce5099cf1e5b1?pvs=21)
+
+<a id="clanek-1-1"></a>
+## 1. ÚVODNÍ USTANOVENÍ
+
+OBCHODNÍ PODMÍNKY
+
+pro poskytování služeb v oblasti tvorby webů, e-shopů, webových aplikací, marketingových funnelů, PPC reklamy a grafického designu
+
+**MESCON DIGITAL s.r.o.**
+
+se sídlem: Příčná 1892/4, 110 00 Praha – Nové Město
+
+IČO: 23580763
+
+zapsaná v obchodním rejstříku vedeném Městským soudem v Praze, oddíl C, vložka [doplní se]
+
+(dále jen „**Poskytovatel**“)
+
+---
+
+1. ÚVODNÍ USTANOVENÍ
+
+1.1
+
+Tyto obchodní podmínky (dále jen „**Obchodní podmínky**“) upravují v souladu s § 1751 odst. 1 zákona č. 89/2012 Sb., občanský zákoník (dále jen „**občanský zákoník**“), vzájemná práva a povinnosti mezi Poskytovatelem a jeho klienty (dále jen „**Klient**“) při poskytování služeb Poskytovatele, zejména v oblasti tvorby webových stránek, e-shopů, webových aplikací, marketingových funnelů, správy PPC kampaní a grafického designu.
+
+1.2
+
+Obchodní podmínky tvoří nedílnou součást smlouvy uzavírané mezi Poskytovatelem a Klientem, a to bez ohledu na to, zda jde o smlouvu uzavřenou v listinné podobě, elektronicky (e-mailem, přes webový formulář) nebo jiným prokazatelným způsobem (dále jen „**Smlouva**“).
+
+1.3
+
+Odchylná ujednání ve Smlouvě mají přednost před zněním těchto Obchodních podmínek. Ujednání v individuální cenové nabídce nebo projektové specifikaci mají přednost před obecnými ustanoveními těchto Obchodních podmínek, není-li výslovně ujednáno jinak.
+
+1.4
+
+Znění Obchodních podmínek může Poskytovatel jednostranně měnit. Pro již uzavřené Smlouvy je vždy rozhodné znění účinné ke dni uzavření dané Smlouvy, ledaže se smluvní strany výslovně dohodnou na použití novější verze.
+
+1.5
+
+Klientem se rozumí jak fyzická, tak právnická osoba, a to bez ohledu na to, zda vystupuje v postavení podnikatele (B2B), či nepodnikatele (spotřebitele). Je-li Klient spotřebitelem, použijí se vedle těchto Obchodních podmínek rovněž kogentní ustanovení právních předpisů na ochranu spotřebitele.
+
+---
+
+[↑ Zpět nahoru](#top)
+
+<a id="clanek-1-2"></a>
+## 2. PŘEDMĚT SMLOUVY A POSKYTOVANÉ SLUŽBY
+
+2.1
+
+Na základě Smlouvy se Poskytovatel zavazuje pro Klienta provést dílo nebo poskytnout službu a Klient se zavazuje zaplatit Poskytovateli sjednanou cenu. Předmětem plnění mohou být zejména:
+
+- tvorba prezentačních webových stránek,
+- tvorba e-shopů,
+- vývoj webových aplikací,
+- návrh a realizace marketingových funnelů,
+- správa a nastavení PPC reklamních kampaní,
+- grafické práce, včetně tvorby loga a vizuální identity,
+- jiné služby v oblasti digitálního marketingu, IT a poradenství.
+
+2.2
+
+Konkrétní rozsah plnění, časový harmonogram, forma výstupů a cena jsou vždy uvedeny ve Smlouvě, cenové nabídce, objednávce nebo projektové dokumentaci, kterou smluvní strany odsouhlasí (e-mailem či jiným prokazatelným způsobem).
+
+2.3
+
+Není-li ve Smlouvě uvedeno jinak, součástí plnění nejsou zejména:
+
+- právní texty (obchodní podmínky, GDPR, cookies pro e-shop či web Klienta),
+- copywriting (tvorba textů),
+- profesionální fotografie a videa,
+- dlouhodobá údržba a aktualizace po předání díla,
+- správa hostingové infrastruktury, která není provozována Poskytovatelem,
+- garance konkrétních obchodních výsledků (např. určitého obratu či počtu objednávek).
+
+---
+
+[↑ Zpět nahoru](#top)
+
+<a id="clanek-1-3"></a>
+## 3. UZAVŘENÍ SMLOUVY
+
+3.1
+
+Smlouva mezi Poskytovatelem a Klientem je uzavřena okamžikem, kdy:
+
+a) Klient písemně (včetně e-mailu) potvrdí cenovou nabídku Poskytovatele, nebo
+
+b) Klient uhradí zálohovou fakturu vystavenou Poskytovatelem na základě poptávky či nabídky, nebo
+
+c) smluvní strany podepíší listinnou či elektronickou Smlouvu.
+
+3.2
+
+Klient bere na vědomí, že **Poskytovatel je oprávněn podmínit zahájení prací úhradou zálohy** a že bez jejího uhrazení není povinen práce započít.
+
+3.3
+
+Smluvní strany mohou komunikovat a činit právně významná jednání zejména prostřednictvím e-mailu. Klient je povinen sledovat e-mailovou adresu, kterou pro komunikaci s Poskytovatelem uvedl.
+
+3.4
+
+Poskytovatel je oprávněn odmítnout uzavření Smlouvy s osobou, která v minulosti hrubě porušila své povinnosti vůči Poskytovateli (např. prodlení s platbou, nesplnění součinnosti, neautorizované zásahy do díla apod.).
+
+---
+
+[↑ Zpět nahoru](#top)
+
+<a id="clanek-1-4"></a>
+## 4. CENA SLUŽEB A PLATEBNÍ PODMÍNKY
+
+4.1
+
+Cena služeb je zpravidla stanovena:
+
+- celkovou částkou za projekt,
+- hodinovou sazbou,
+- nebo pravidelným paušálem (např. měsíční správa PPC, podpora apod.).
+
+Konkrétní způsob určení ceny je vždy uveden ve Smlouvě nebo nabídce.
+
+4.2
+
+Ceny jsou zpravidla uvedeny bez DPH; je-li Poskytovatel plátcem DPH, bude k ceně připočtena DPH v zákonné výši.
+
+4.3 – **Zálohové faktury**
+
+1. Poskytovatel je oprávněn požadovat před zahájením prací **zálohu až do výše 100 % předpokládané ceny plnění**, není-li ve Smlouvě sjednáno jinak.
+2. Záloha je splatná dle data uvedeného na zálohové faktuře.
+3. **Bez uhrazení zálohy není Poskytovatel povinen zahájit plnění**, a případné termíny dodání se úměrně posouvají o dobu prodlení Klienta s úhradou zálohy.
+
+4.4 – **Průběžná fakturace a doplatky**
+
+1. U rozsáhlejších projektů může Poskytovatel fakturovat dílčí části plnění (milníky).
+2. Doplatek ceny nebo dílčí faktury jsou splatné ve lhůtě uvedené na faktuře, zpravidla 7–14 dnů od vystavení.
+
+4.5 – **Prodlení s platbou a smluvní pokuta za pozdní úhradu**
+
+1. V případě prodlení Klienta s úhradou jakékoli částky je Poskytovatel oprávněn:
+    - pozastavit veškeré práce a poskytování služeb do okamžiku úhrady,
+    - jednostranně prodloužit veškeré sjednané termíny dodání o dobu prodlení Klienta,
+    - požadovat smluvní pokutu ve výši **0,1 % z dlužné částky za každý i započatý den prodlení**, minimálně však **[např. 500 Kč]**.
+2. Uplatnění smluvní pokuty nemá vliv na právo Poskytovatele na náhradu škody v plné výši.
+
+4.6 – **Opakované (pravidelné) platby**
+
+V případě služeb poskytovaných na bázi předplatného nebo paušálu (např. správa PPC, podpora, pronájem systému) je Klient povinen hradit ceny:
+
+- v pravidelných intervalech uvedených ve Smlouvě (měsíčně, čtvrtletně apod.),
+- a to předem za příslušné období, není-li uvedeno jinak.
+
+4.7
+
+Klient je povinen uvádět variabilní symbol a správné údaje pro identifikaci platby. V případě nejasností se má za to, že platba byla připsána až po jejím přiřazení Poskytovatelem k příslušné faktuře.
+
+---
+
+[↑ Zpět nahoru](#top)
+
+<a id="clanek-1-5"></a>
+## 5. SOUČINNOST KLIENTA A DODÁNÍ PODKLADŮ
+
+5.1
+
+Klient je povinen poskytovat Poskytovateli veškerou součinnost potřebnou k řádnému splnění Smlouvy. Zejména je povinen včas a úplně dodat:
+
+- textové podklady, fotografie, loga a další obsah pro web / e-shop / grafické návrhy,
+- přístupové údaje k hostingům, doménám, reklamním účtům, analytickým nástrojům apod.,
+- informace o svých službách a produktech,
+- včasné připomínky a schválení jednotlivých fází.
+
+5.2
+
+Není-li ve Smlouvě stanoveno jinak, platí, že Klient je povinen dodat požadované podklady nejpozději do **[např. 7] dnů** ode dne výzvy Poskytovatele.
+
+5.3
+
+V případě, že Klient podklady nebo součinnost včas neposkytne, je:
+
+a) Poskytovatel oprávněn **pozastavit plnění** a jednostranně prodloužit termín dodání díla o dobu prodlení Klienta, a to minimálně o tutéž dobu, po kterou byl v prodlení;
+
+b) Klient v prodlení se součinností, a Poskytovatel **není v prodlení s dodáním díla**, i kdyby nebylo dokončeno ve sjednaném termínu;
+
+c) Poskytovatel oprávněn vyúčtovat Klientovi **stojné** – paušální náhradu nákladů na blokaci kapacit ve výši **[např. 1 000 Kč] za každý i započatý týden prodlení Klienta**;
+
+d) Poskytovatel oprávněn požadovat vedle stojného také **smluvní pokutu za nedodání podkladů** ve lhůtě podle odstavce 5.2 ve výši **[např. 2 000 Kč] po uplynutí každého započatého 14denního období prodlení**.
+
+5.4
+
+Nedodá-li Klient potřebné podklady ani ve lhůtě [např. 30 dní] od výzvy Poskytovatele, je Poskytovatel oprávněn:
+
+- Smlouvu jednostranně ukončit,
+- ponechat si již uhrazené zálohy jako smluvní odškodnění,
+- a vyúčtovat Klientovi dosud vykonané práce podle platného ceníku.
+
+5.5
+
+Klient odpovídá za to, že veškeré jím dodané podklady a informace jsou pravdivé, aktuální a že jejich použití Poskytovatelem neporušuje práva třetích osob, zejména práva autorská či osobnostní.
+
+---
+
+[↑ Zpět nahoru](#top)
+
+<a id="clanek-1-6"></a>
+## 6. PRÁVA A POVINNOSTI SMLUVNÍCH STRAN (základ)
+
+*(Tuhle sekci už jen načrtnu, aby celek dával smysl – můžeme ji příště rozvést do detailu.)*
+
+6.1
+
+Poskytovatel je povinen plnit se odbornou péčí a v souladu se Smlouvou a těmito Obchodními podmínkami.
+
+6.2
+
+Poskytovatel je oprávněn pověřit provedením části plnění třetí osobu (subdodavatele), za jejíž činnost odpovídá, jako by plnění prováděl sám.
+
+6.3
+
+Klient je povinen zejména:
+
+- uhradit cenu ve sjednaných lhůtách,
+- poskytovat součinnost dle článku 5,
+- zdržet se zásahů do díla bez souhlasu Poskytovatele,
+- neporušovat licenční ujednání (zejména neužívat dílo nad rámec poskytnuté licence)
+
+---
+
+[↑ Zpět nahoru](#top)
+
+<a id="clanek-1-7"></a>
+## 2. DEFINICE POJMŮ
+
+### **1. ÚVODNÍ USTANOVENÍ**
+
+1.1
+
+Tato část Obchodních podmínek stanovuje definice pojmů, které mají ve smluvních vztazích mezi Poskytovatelem a Klientem jednotný, závazný a výkladově závazný význam. Tam, kde je v textu použit pojem s velkým počátečním písmenem, má význam uvedený v této části, nestanoví-li konkrétní ustanovení jinak.
+
+1.2
+
+Cílem této části je odstranit výkladové nejasnosti, předejít sporům a zajistit jednoznačný právní výklad všech právních jednání, závazků, povinností a procesů mezi smluvními stranami.
+
+1.3
+
+Všechny další části Obchodních podmínek, a také jednotlivé Smlouvy, objednávky, cenové nabídky a projektové specifikace, se vykládají v souladu s těmito definicemi.
+
+---
+
+### **2. DEFINICE POJMŮ**
+
+### **Smluvní dokumenty**
+
+2.1
+
+„**Smlouva**“ znamená úplatný závazkový vztah mezi Poskytovatelem a Klientem uzavřený v listinné podobě, elektronicky, potvrzením nabídky nebo úhradou zálohové faktury. Smlouva zahrnuje i projektovou specifikaci, cenovou nabídku, přílohy, e-mailová potvrzení a tyto Obchodní podmínky.
+
+2.2
+
+„**Objednávka**“ je jednostranný úkon Klienta směřující k objednání Služby, učiněný e-mailem, formulářem, úhradou faktury nebo prostřednictvím jiného komunikačního prostředku schváleného Poskytovatelem.
+
+2.3
+
+„**Projektová dokumentace**“ označuje dokument popisující rozsah Díla, jeho funkčnost, cíle, milníky, časový harmonogram, technické parametry nebo jiné náležitosti potřebné k plnění. Projektová dokumentace je součástí Smlouvy.
+
+---
+
+### **Služby a díla**
+
+2.4
+
+„**Služba**“ je jakákoli činnost poskytovaná Poskytovatelem, zejména v oblasti digitální produkce, vývoje software, grafiky, marketingu, konzultací, analýz, automatizací, integrací nebo technické podpory.
+
+2.5
+
+„**Dílo**“ je vytvoření konkrétního výsledku (výstupu), zejména webových stránek, e-shopu, webových aplikací, modulů, integrací, grafiky, loga, brand identity, textů, kampaní, dokumentace, kódu či jiného výstupu určeného k předání Klientovi.
+
+2.6
+
+„**Projekt**“ je ucelený, časově ohraničený soubor činností obsahující analýzu, návrh, implementaci, testování, předání a případnou podporu.
+
+2.7
+
+„**Milník**“ označuje část Díla, která má být dokončena v konkrétním časovém bodě. Milník může být spojen s fakturací nebo s povinností Klienta poskytnout schválení či součinnost.
+
+2.8
+
+„**Výstup práce**“ je jakýkoli mezivýstup nebo konečný výstup poskytnutý Klientovi, bez ohledu na formu, a to i pokud jde o verzi konceptu, návrhu nebo prototypu.
+
+---
+
+### **Technické pojmy**
+
+2.9
+
+„**Zdrojový kód**“ je textová podoba programového řešení vytvořeného Poskytovatelem nebo jeho subdodavateli. Zdrojový kód není součástí předání, není-li sjednáno jinak.
+
+2.10
+
+„**Repozitář**“ je digitální úložiště obsahující zdrojový kód, dokumentaci nebo jiné data. Klient nemá právo přístupu k repozitářům, není-li sjednáno jinak.
+
+2.11
+
+„**Staging**“ je testovací prostředí sloužící k předprodukčním úpravám a testování. Případné chyby, nedokonalosti nebo nedostupnost stagingu nezakládají odpovědnost Poskytovatele.
+
+2.12
+
+„**Produkční prostředí**“ je finální prostředí, v němž je Dílo zpřístupněno veřejnosti nebo Klientovi k plnému užívání.
+
+2.13
+
+„**Hosting**“ znamená uschování a provoz souborů, databází a aplikací. Hosting třetích stran není součástí odpovědnosti Poskytovatele.
+
+2.14
+
+„**Integrace**“ znamená propojení Díla s aplikacemi nebo systémy třetích stran, například API, platební brány, CRM, ERP, mailingové systémy, analytické nástroje nebo dopravní systémy.
+
+2.15
+
+„**SaaS**“ označuje software poskytovaný jako službu, jehož provoz zajišťuje Poskytovatel nebo třetí strana. Klient nemá právo požadovat přístup ke zdrojovým strukturám SaaS řešení.
+
+---
+
+### **Komunikace a procesy**
+
+2.16
+
+„**Součinnost**“ znamená plnění povinností Klienta potřebných k řádnému dodání Díla, zejména dodání textů, obrázků, přístupů, informací, testování, schvalování, odpovědí na dotazy a kontrolu výstupů. Bez součinnosti nemůže být Dílo dokončeno.
+
+2.17
+
+„**Prodlení Klienta**“ je jakékoli opoždění Klienta s dodáním podkladů, odpovědí, schválení nebo úhradou faktur. Prodlení Klienta automaticky posouvá termíny Poskytovatele a zakládá nárok na smluvní pokuty.
+
+2.18
+
+„**Akceptace**“ znamená potvrzení správnosti nebo dokončení části Díla Klientem. Akceptace může být učiněna e-mailem, písemně nebo konkludentně (např. používáním Díla).
+
+2.19
+
+„**Pracovní den**“ znamená den od pondělí do pátku s výjimkou státních svátků v České republice. Časové lhůty se počítají podle pracovních dnů.
+
+2.20
+
+„**Pracovní doba**“ znamená dobu od 9:00 do 17:00 ve všední dny, není-li ujednáno jinak. Mimo pracovní dobu nemusí Poskytovatel reagovat na komunikaci Klienta.
+
+2.21
+
+„**Kapacitní blokace**“ znamená rezervaci kapacit Poskytovatele pro práci na Projektu. Pokud Klient není připraven pokračovat nebo nedodá podklady, kapacita se považuje za využitou a může být účtována jako stojné.
+
+---
+
+### **Práva a licence**
+
+2.22
+
+„**Licence**“ znamená nevýhradní oprávnění Klienta užívat Dílo v rozsahu sjednaném Smlouvou. Licence nezahrnuje právo modifikace, distribuce, prodeje, přeprodeje nebo úpravy, není-li sjednáno jinak.
+
+2.23
+
+„**Autorské dílo**“ je výsledek duševní činnosti chráněný autorským právem. Autorské dílo nadále zůstává vlastnictvím Poskytovatele, pokud není sjednáno jinak.
+
+2.24
+
+„**Podklady Klienta**“ znamenají materiály poskytnuté Klientem, zejména loga, texty, fotografie, videa a přístupy. Klient odpovídá za to, že jejich použitím neporuší práva třetích stran.
+
+---
+
+### **Finanční pojmy**
+
+2.25
+
+„**Záloha**“ je platba požadovaná před zahájením prací ve výši sjednané ve Smlouvě nebo nabídce. Bez úhrady zálohy nevzniká Poskytovateli povinnost zahájit práce.
+
+2.26
+
+„**Vícepráce**“ znamenají práce mimo původní rozsah Smlouvy, ať už vyvolané požadavkem Klienta, změnou zadání nebo doplněním funkcí. Vícepráce jsou zpoplatněny dle ceníku nebo dohodnuté sazby.
+
+2.27
+
+„**Smluvní pokuta**“ je peněžitá sankce sjednaná ve prospěch Poskytovatele v případě porušení povinností Klienta, například při prodlení s úhradou nebo nedodáním podkladů.
+
+2.28
+
+„**Stojné**“ znamená paušální úhradu za blokaci kapacit Poskytovatele, pokud Klient nedodá podklady nebo není schopen pokračovat v Projektu.
+
+---
+
+### **Závěrečné definice**
+
+2.29
+
+„**Třetí strana**“ je osoba odlišná od Poskytovatele a Klienta, jejíž služby, knihovny, API nebo technologie jsou součástí Projektu. Poskytovatel neodpovídá za jejich fungování ani dostupnost.
+
+2.30
+
+„**Incident**“ znamená technický problém, který znemožňuje základní funkčnost Díla. Incident není chyba způsobená třetí stranou nebo nesprávným používáním Díla.
+
+2.31
+
+„**Podpora**“ znamená technickou pomoc poskytovanou Poskytovatelem po předání Díla, není-li součástí ceny.
+
+[↑ Zpět nahoru](#top)
+
+<a id="clanek-1-8"></a>
+## 3. SLUŽBY – OBECNÁ USTANOVENÍ
+
+### **1. Úvodní ustanovení**
+
+1.1
+
+Tato část Obchodních podmínek stanovuje obecná pravidla pro poskytování služeb Poskytovatelem, a to bez ohledu na jejich konkrétní typ či technickou povahu. Jednotlivé služby mohou mít vlastní specifické podmínky uvedené v samostatných podstránkách těchto Obchodních podmínek; v případě rozporu mají přednost tato specifická ustanovení.
+
+1.2
+
+Službami se rozumí zejména tvorba webových stránek, e-shopů, webových aplikací, grafických návrhů, marketingových funnelů, správa PPC kampaní, technická správa, digitální marketing, konzultace a analýzy. Přesný rozsah poskytovaných služeb je sjednán individuálně ve Smlouvě, objednávce, cenové nabídce nebo projektové specifikaci.
+
+1.3
+
+Poskytovatel poskytuje služby jako podnikatel v odborném režimu, tj. s využitím odborných znalostí, zkušeností a běžných postupů v odvětví. Klient bere na vědomí, že služby digitální povahy nemusí být vždy objektivně měřitelné a mohou zahrnovat subjektivní prvky vyplývající z tvůrčí činnosti.
+
+---
+
+### **2. Rozsah služeb**
+
+2.1
+
+Rozsah služeb je vždy určen na základě Smlouvy nebo jiného potvrzeného dokumentu. Není-li v těchto dokumentech výslovně uvedeno jinak, poskytují se služby v rozsahu nezbytném pro dosažení sjednaného výsledku, nikoli však nad rámec standardů obvyklých pro daný typ služby.
+
+2.2
+
+Služby nezahrnují žádné činnosti, které nebyly výslovně sjednány. Zejména se má za to, že součástí plnění nejsou právní služby, copywriting, profesionální fotografie, hosting třetích stran, licence k obrázkům či šablonám, správa serverů, analytické nástroje ani kontinuální údržba po předání Díla, není-li dohodnuto jinak.
+
+2.3
+
+Všechny práce, které Klient požaduje nad rámec sjednaného rozsahu, se považují za **Vícepráce**, a jsou účtovány podle aktuálního ceníku nebo individuálně sjednané sazby. Poskytovatel je povinen Klienta o vzniku Víceprací prokazatelně informovat.
+
+---
+
+### **3. Způsob poskytování služeb**
+
+3.1
+
+Poskytovatel poskytuje služby převážně na dálku, prostřednictvím elektronické komunikace, on-line nástrojů nebo cloudového prostředí. Klient je povinen umožnit Poskytovateli přístup do všech systémů a účtů nezbytných pro poskytování služby.
+
+3.2
+
+Pokud jsou služby poskytovány na straně Klienta (např. instalace, školení, osobní konzultace), je Klient povinen zajistit odpovídající technické a provozní podmínky. Nesplnění těchto podmínek zakládá prodlení Klienta.
+
+3.3
+
+Poskytovatel je oprávněn delegovat část prací na své pracovníky, subdodavatele nebo třetí osoby. Tato skutečnost není důvodem ke snížení ceny služeb, není-li dohodnuto jinak.
+
+---
+
+### **4. Kvalita a standardy služeb**
+
+4.1
+
+Poskytovatel se zavazuje poskytovat služby s odbornou péčí a v souladu s běžnými profesními standardy. Klient však bere na vědomí, že digitální služby podléhají omezením technologií, prostředí třetích stran a dostupnosti online systémů.
+
+4.2
+
+Poskytovatel nezodpovídá za omezení způsobené:
+
+- výpadkem služeb třetích stran,
+- změnou API, licenčních podmínek nebo obchodních podmínek třetích stran,
+- zásahy Klienta nebo třetích osob,
+- nevhodným hardwarem, softwarem nebo konfigurací Klienta.
+
+4.3
+
+Pokud Klient provede úpravy Díla bez vědomí Poskytovatele, nenese Poskytovatel odpovědnost za následné vady či nefunkčnost.
+
+---
+
+### **5. Specifikace, zadání a změny během realizace**
+
+5.1
+
+Služby jsou prováděny podle specifikace, kterou Klient schválí. Jakákoli změna specifikace musí být odsouhlasena oběma stranami a může ovlivnit cenu a termín dokončení.
+
+5.2
+
+V případě, že Klient požaduje změnu během realizace, je Poskytovatel oprávněn:
+
+- vypracovat revidovanou cenovou nabídku,
+- upravit harmonogram projektu,
+- požadovat úhradu Víceprací předem.
+
+5.3
+
+Nedohodnou-li se strany na změně rozsahu, pokračuje Poskytovatel v realizaci podle původní specifikace.
+
+---
+
+### **6. Termíny poskytování služeb**
+
+6.1
+
+Termíny dokončení služeb jsou orientační, pokud nejsou ve Smlouvě označeny jako závazné. Termín se vždy automaticky prodlužuje:
+
+- o dobu prodlení Klienta s dodáním podkladů,
+- o dobu prodlení Klienta s úhradou plateb,
+- o dobu nutnou pro řešení nečekaných technických okolností nezaviněných Poskytovatelem,
+- o dobu prodlení způsobeného třetí stranou.
+
+6.2
+
+Poskytovatel není v prodlení, pokud Klient neposkytl včasné schválení nebo zpětnou vazbu, a Projekt stojí z důvodů na straně Klienta.
+
+---
+
+### **7. Omezení a vyloučení odpovědnosti**
+
+7.1
+
+Poskytovatel neodpovídá za škody způsobené:
+
+- použitím neaktuálních podkladů Klienta,
+- nepravdivými nebo nekompletními údaji poskytnutými Klientem,
+- nevhodnou konfigurací hostingu nebo serveru Klienta,
+- nesprávným používáním Díla,
+- nesouladem se specifickými oborovými normami, pokud nebyly Klientem výslovně požadovány.
+
+7.2
+
+Poskytovatel neposkytuje žádnou záruku na obchodní výsledky (např. nárůst objednávek, výkon reklam, SEO pozice, obrat e-shopu), neboť tyto výsledky závisí na faktorech mimo kontrolu Poskytovatele.
+
+---
+
+### **8. Přerušení poskytování služeb**
+
+8.1
+
+Poskytovatel je oprávněn služby pozastavit, pokud:
+
+- je Klient v prodlení s úhradou jakékoli platby,
+- je Klient v prodlení se součinností,
+- Klient závažně porušuje Obchodní podmínky nebo Smlouvu.
+
+8.2
+
+Po dobu pozastavení služeb nenese Poskytovatel odpovědnost za žádné škody vzniklé Klientovi.
+
+[3.1 PREZENTAČNÍ WEBY](https://www.notion.so/3-1-PREZENTA-N-WEBY-2c390623b4ba81cb8e9ff453813826db?pvs=21)
+
+[3.2 E-SHOPY](https://www.notion.so/3-2-E-SHOPY-2c390623b4ba81238a09c492ac183e57?pvs=21)
+
+[3.3 WEBOVÉ APLIKACE](https://www.notion.so/3-3-WEBOV-APLIKACE-2c390623b4ba81d4a6ccc8506a353b9d?pvs=21)
+
+[3.4 MARKETINGOVÉ FUNNELY](https://www.notion.so/3-4-MARKETINGOV-FUNNELY-2c390623b4ba81d7b76ffa089f141302?pvs=21)
+
+[3.5. PPC REKLAMY](https://www.notion.so/3-5-PPC-REKLAMY-2c390623b4ba8124b6f2f22bfd52719d?pvs=21)
+
+[3.6 GRAFICKÝ DESIGN](https://www.notion.so/3-6-GRAFICK-DESIGN-2c390623b4ba81f0a6fde377cbb737cf?pvs=21)
+
+[↑ Zpět nahoru](#top)
+
+<a id="clanek-1-9"></a>
+## 4. UZAVŘENÍ SMLOUVY
+
+### **1. Úvodní ustanovení**
+
+1.1
+
+Tato část Obchodních podmínek upravuje způsob uzavření Smlouvy mezi Poskytovatelem a Klientem, vznik závazkového vztahu, pravidla pro akceptaci nabídky, objednávání služeb a podmínky zahájení prací.
+
+1.2
+
+Smlouva může být uzavřena v listinné podobě, elektronicky (e-mailem, prostřednictvím elektronického formuláře), úhradou zálohové faktury nebo jakýmkoli jiným způsobem, který nevyvolává pochybnosti o vůli Klienta objednat služby Poskytovatele.
+
+1.3
+
+Okamžikem uzavření Smlouvy vzniká Poskytovateli povinnost poskytovat sjednané služby a Klientovi povinnost uhradit sjednanou cenu a poskytnout potřebnou součinnost.
+
+---
+
+### **2. Způsoby objednání a vzniku závazku**
+
+2.1
+
+Smlouva je uzavřena okamžikem splnění některého z následujících úkonů:
+
+a) Klient písemně (včetně e-mailu) potvrdí cenovou nabídku nebo návrh Smlouvy,
+
+b) Klient potvrdí objednávku prostřednictvím online formuláře,
+
+c) Klient uhradí zálohovou fakturu vystavenou Poskytovatelem,
+
+d) Klient oznámí Poskytovateli, že s nabídkou souhlasí a požaduje realizaci služby,
+
+e) Poskytovatel výslovně potvrdí objednávku Klienta.
+
+2.2
+
+Pokud Klient akceptuje nabídku úhradou zálohové faktury, platí, že se tím zavazuje k rozsahu služeb uvedených v nabídce, ceně a podmínkách poskytování služeb.
+
+2.3
+
+Potvrzení objednávky Klientem, byť i v neformální podobě (např. zpráva v komunikátoru typu WhatsApp, Messenger apod.), je právně závazné, pokud z obsahu zprávy jednoznačně vyplývá vůle Klienta objednat službu. Klient bere na vědomí, že tento typ komunikace se považuje za právní jednání.
+
+---
+
+### **3. Cenová nabídka a její akceptace**
+
+3.1
+
+Cenová nabídka (dále jen „Nabídka“) je dokument nebo zpráva, kterou Poskytovatel předá Klientovi, a která obsahuje popis služeb, předpokládaný rozsah, cenu a případné termíny realizace.
+
+3.2
+
+Není-li v nabídce uvedeno jinak, platnost nabídky činí **14 dnů ode dne jejího odeslání**. Po uplynutí této lhůty není Poskytovatel Nabídkou vázán.
+
+3.3
+
+Klient akceptuje Nabídku zejména:
+
+- písemným potvrzením,
+- odpovědní e-mailovou zprávou,
+- úhradou zálohové faktury,
+- podpisem Smlouvy,
+- jiným zjevným projevem vůle.
+
+3.4
+
+Po akceptaci Nabídky je Klient povinen uhradit cenu a poskytnout součinnost tak, jak je uvedeno ve Smlouvě nebo těchto Obchodních podmínkách.
+
+---
+
+### **4. Povinnost uhradit zálohu a zahájení prací**
+
+4.1
+
+Klient bere na vědomí, že Poskytovatel je oprávněn podmínit zahájení prací **úhradou zálohové faktury**, a to až do výše 100 % ceny díla nebo 50 % ceny paušální služby.
+
+4.2
+
+Pokud není záloha uhrazena ve lhůtě splatnosti, Poskytovatel není povinen započít s poskytováním služby a není v prodlení s žádným sjednaným termínem.
+
+4.3
+
+Termíny uvedené v nabídce nebo Smlouvě se automaticky prodlužují o dobu prodlení Klienta s úhradou zálohy.
+
+4.4
+
+Záloha je nevratná, pokud Klient jednostranně odstoupí po jejím uhrazení, není-li ve Smlouvě uvedeno jinak.
+
+---
+
+### **5. Změny zadání a postup jejich odsouhlasení**
+
+5.1
+
+Po uzavření Smlouvy může Klient požádat o změnu specifikace, rozsahu nebo obsahu požadovaného díla.
+
+5.2
+
+Každá změna musí být Poskytovatelem výslovně potvrzena. Pokud Poskytovatel změnu nepotvrdí, zůstává v platnosti původní sjednané zadání.
+
+5.3
+
+Změny, které mají vliv na časovou náročnost, rozsah nebo způsob provedení díla, jsou považovány za **Vícepráce**.
+
+5.4
+
+Poskytovatel informuje Klienta o dopadu změny na cenu a termín. Klient je povinen novou cenu potvrdit, jinak se změna neprovádí.
+
+---
+
+### **6. Odmítnutí spolupráce**
+
+6.1
+
+Poskytovatel je oprávněn odmítnout uzavření Smlouvy zejména s osobou, která:
+
+a) v minulosti porušila své povinnosti vůči Poskytovateli, zejména v souvislosti s neuhrazenými fakturami,
+
+b) neposkytla součinnost potřebnou k řádnému plnění,
+
+c) dodala nelegální nebo licenčně problematické podklady,
+
+d) jednala v rozporu s dobrými mravy,
+
+e) požaduje služby, které jsou v rozporu s právním řádem nebo etickými zásadami Poskytovatele.
+
+6.2
+
+Poskytovatel je oprávněn odmítnout spolupráci i z provozních nebo kapacitních důvodů.
+
+---
+
+### **7. Komunikace a doručování**
+
+7.1
+
+Smluvní strany komunikují primárně e-mailem. Komunikace prostřednictvím sociálních sítí nebo komunikačních aplikací slouží pouze jako doplňková a není povinná.
+
+7.2
+
+Za doručenou se považuje zpráva:
+
+- okamžikem jejího dodání na e-mailovou adresu uvedenou ve Smlouvě,
+- nebo okamžikem, kdy se Klient se zprávou seznámil nebo mohl seznámit (při běžném sledování e-mailu).
+
+7.3
+
+Klient je povinen sledovat svůj e-mail a reagovat bez zbytečného odkladu.
+
+---
+
+### **8. Nečinnost Klienta**
+
+8.1
+
+Pokud Klient na výzvu Poskytovatele nereaguje po dobu delší než 7 dnů, Poskytovatel je oprávněn:
+
+- přerušit práce,
+- prodloužit termíny,
+- účtovat stojné nebo smluvní pokutu dle Smlouvy.
+
+8.2
+
+Pokud Klient nereaguje po dobu delší než 30 dnů, může Poskytovatel:
+
+- Smlouvu jednostranně ukončit,
+- ponechat si uhrazenou zálohu jako smluvní kompenzaci,
+- vyúčtovat dosud provedené práce.
+
+---
+
+### **9. Účinnost smlouvy**
+
+9.1
+
+Smlouva nabývá účinnosti okamžikem jejího uzavření, není-li výslovně uvedeno jinak.
+
+9.2
+
+Poskytovatel může započít s dílčími přípravnými pracemi i před připsáním zálohy, avšak pouze dle vlastního uvážení; nejde o povinnost.
+
+[↑ Zpět nahoru](#top)
+
+<a id="clanek-1-10"></a>
+## 5. PLATEBNÍ PODMÍNKY
+
+### **1. Úvodní ustanovení**
+
+1.1
+
+Tato část Obchodních podmínek upravuje způsob stanovení ceny, pravidla fakturace, podmínky úhrady, splatnost plateb, následky prodlení a další platební povinnosti Klienta v souvislosti s poskytováním služeb Poskytovatelem.
+
+1.2
+
+Klient bere na vědomí, že Poskytovatel poskytuje služby povahy duševního vlastnictví, jejichž hodnota spočívá v čase, odbornosti a kreativní činnosti. Cena je proto splatná vždy v rozsahu a formě sjednané ve Smlouvě, a to bez ohledu na subjektivní hodnocení výsledku ze strany Klienta.
+
+---
+
+### **2. Cena služeb**
+
+2.1
+
+Cena služeb je stanovena:
+
+a) **pevnou částkou** za projekt nebo dílo,
+
+b) **hodinovou sazbou**,
+
+c) **měsíčním nebo jiným pravidelným paušálem**,
+
+d) **kombinací výše uvedeného**,
+
+e) nebo jiným způsobem výslovně sjednaným ve Smlouvě.
+
+2.2
+
+Ceny jsou uvedeny bez DPH. Je-li Poskytovatel plátcem DPH, bude k ceně připočtena DPH v zákonné výši.
+
+2.3
+
+Pokud není ve Smlouvě určena pevná cena, provádí se fakturace dle skutečné časové náročnosti na základě hodinové sazby Poskytovatele a Klient je povinen tuto cenu uhradit.
+
+2.4
+
+Případné náklady třetích stran (např. licence, hosting, pluginy, služby externích dodavatelů, reklamní rozpočty, fotografie) nejsou součástí ceny, pokud není sjednáno jinak.
+
+---
+
+### **3. Zálohy a podmínky zahájení prací**
+
+3.1
+
+Poskytovatel je oprávněn požadovat před zahájením prací **zálohu až do výše 100 % ceny služby nebo projektu**. Výši zálohy určuje Poskytovatel podle charakteru zakázky.
+
+3.2
+
+Pokud není záloha uhrazena ve lhůtě uvedené na faktuře, Poskytovatel není povinen zahájit práce a není v prodlení s žádným sjednaným termínem.
+
+3.3
+
+Termíny dodání se automaticky prodlužují o dobu prodlení Klienta s úhradou zálohy.
+
+3.4
+
+Uhrazená záloha je nevratná, pokud Klient od spolupráce odstoupí po jejím uhrazení, s výjimkou případů stanovených kogentními právními předpisy.
+
+---
+
+### **4. Průběžná fakturace a milníky**
+
+4.1
+
+U rozsáhlých projektů může Poskytovatel fakturovat postupně dle stanovených milníků. Každý milník je splatný samostatně.
+
+4.2
+
+Průběžná fakturace je závazná bez ohledu na to, zda Klient poskytl potřebnou součinnost pro pokračování dalších fází díla.
+
+4.3
+
+Odmítnutí nebo zdržení součinnosti ze strany Klienta není důvodem pro odklad splatnosti faktur.
+
+4.4
+
+Nedojde-li k úhradě průběžné faktury, Poskytovatel je oprávněn pozastavit veškeré práce.
+
+---
+
+### **5. Splatnost faktur a identifikace plateb**
+
+5.1
+
+Faktury vystavené Poskytovatelem jsou splatné ve lhůtě uvedené na faktuře, zpravidla **7 až 14 dnů**.
+
+5.2
+
+Platba je považována za uhrazenou okamžikem připsání částky na bankovní účet Poskytovatele.
+
+5.3
+
+Klient je povinen uvádět správný variabilní symbol. Neidentifikovatelná platba se považuje za přijatou až okamžikem přiřazení Poskytovatelem.
+
+5.4
+
+Nedodržení platební kázně může vést k:
+
+- pozastavení prací,
+- posunutí termínů,
+- uplatnění smluvní pokuty,
+- jednostrannému ukončení Smlouvy.
+
+---
+
+### **6. Prodlení Klienta a smluvní pokuty**
+
+6.1
+
+V případě prodlení Klienta s úhradou jakékoli faktury je Poskytovatel oprávněn účtovat:
+
+a) **smluvní pokutu ve výši 1 % z dlužné částky za každý započatý den prodlení**,
+
+b) minimální smluvní pokutu ve výši **500 Kč**,
+
+c) zákonný úrok z prodlení, pokud je vyšší,
+
+d) náklady spojené s vymáháním platby.
+
+6.2
+
+Uplatnění smluvní pokuty nemá vliv na právo Poskytovatele domáhat se náhrady škody v plné výši.
+
+6.3
+
+V případě prodlení delšího než 14 dní může Poskytovatel:
+
+- pozastavit veškeré práce,
+- znemožnit přístup k dílu nebo službám,
+- omezit poskytování podpory.
+
+6.4
+
+V případě prodlení delšího než 21 dní je Poskytovatel oprávněn:
+
+- **ukončit Smlouvu**,
+- **ponechat si veškeré uhrazené částky**,
+- **vyúčtovat dosud provedené práce**,
+- **vymáhat dlužné částky právní cestou**.
+
+---
+
+### **7. Pravidelné a opakované platby**
+
+7.1
+
+U služeb poskytovaných v režimu paušálu (např. správa PPC, hostingové služby, údržba webu) je Klient povinen hradit cenu:
+
+- měsíčně,
+- čtvrtletně,
+- nebo ročně,
+    
+    dle sjednaného režimu.
+    
+
+7.2
+
+Pravidelné platby jsou splatné vždy **před začátkem období**, pokud není sjednáno jinak.
+
+7.3
+
+Neuhrazení paušálu má za následek automatické pozastavení související služby.
+
+7.4
+
+Klient bere na vědomí, že i při pozastavení služeb mu trvá povinnost uhradit dlužné částky.
+
+---
+
+### **8. Reklamace plateb a námitek**
+
+8.1
+
+Klient je povinen zkontrolovat správnost faktur do 3 dnů od jejich doručení. Po uplynutí této lhůty se faktura považuje za bezvadnou.
+
+8.2
+
+Reklamace faktury nemá vliv na její splatnost, pokud Poskytovatel neurčí jinak.
+
+8.3
+
+Spor o výši ceny není důvodem k zadržení platby.
+
+---
+
+### **9. Vrácení peněz a kreditní systém**
+
+9.1
+
+Poskytovatel není povinen vracet již zaplacené částky, zejména pokud došlo ke splnění části nebo celého díla, nebo pokud Klient odstoupil od spolupráce.
+
+9.2
+
+V případě dobrovolného poskytnutí kreditu nebo slevy ze strany Poskytovatele jde o jednorázové obchodní gesto bez nároku na opakování.
+
+---
+
+### **10. Náklady třetích stran**
+
+10.1
+
+Reklamní rozpočty, pluginy, licence, fonty, fotografie, API přístupy, šablony, externí služby a další náklady třetích stran hradí Klient, pokud není sjednáno jinak.
+
+10.2
+
+Pokud Klient zpozdí úhradu nákladů třetí strany, neručí Poskytovatel za funkčnost, dostupnost ani ztrátu dat způsobenou jejich omezením.
+
+[↑ Zpět nahoru](#top)
+
+<a id="clanek-1-11"></a>
+## 6. SANKCE A SMLUVNÍ POKUTY
+
+### **1. Úvodní ustanovení**
+
+1.1
+
+Tato část Obchodních podmínek stanovuje smluvní pokuty, sankce a další právní následky porušení povinností ze strany Klienta nebo Poskytovatele. Jejich účelem je zajistit řádné plnění smluvních závazků a ochránit Poskytovatele před škodou způsobenou nečinností, prodlením, nesprávným užíváním služeb nebo narušením autorských práv.
+
+1.2
+
+Smluvní pokuty sjednané v této části nemají vliv na právo Poskytovatele domáhat se náhrady škody v plné výši. Smluvní pokuta je splatná nezávisle na vzniku či výši škody.
+
+1.3
+
+Klient bere na vědomí, že porušení povinností uvedených v této části může vést k okamžitému pozastavení služby nebo i ukončení Smlouvy.
+
+---
+
+### **2. Sankce za prodlení s úhradou ceny**
+
+2.1
+
+V případě prodlení Klienta s úhradou jakékoli částky dle Smlouvy nebo faktury je Poskytovatel oprávněn účtovat smluvní pokutu ve výši:
+
+**a)** **0,5 % z dlužné částky za každý započatý den prodlení**,
+
+**b)** **minimálně však:**
+
+- **300 Kč**, pokud dlužná částka činí **do 20 000 Kč** včetně,
+- **500 Kč**, pokud dlužná částka činí **více než 20 000 Kč**,
+
+**c)** plus zákonný úrok z prodlení, pokud je vyšší.
+
+2.2
+
+Byla-li cena fakturována za měsíční paušál nebo opakovanou službu, má nezaplacení paušálu za následek pozastavení příslušné služby.
+
+2.3
+
+Prodlení delší než 30 dní zakládá právo Poskytovatele:
+
+- okamžitě ukončit Smlouvu,
+- pozastavit veškeré poskytované služby,
+- odepřít přístup k dílu, systému či administraci,
+- vymáhat dlužnou částku právní cestou.
+
+---
+
+### **3. Sankce za nedodání podkladů a nesplnění součinnosti**
+
+3.1
+
+Pokud Klient nedodá podklady nebo neposkytne součinnost do termínu sjednaného ve Smlouvě nebo výzvě Poskytovatele, je Poskytovatel oprávněn účtovat smluvní pokutu:
+
+**a) 1 000 Kč za každý i započatý týden prodlení**,
+
+**b) 2 000 Kč za každých 14 dní prodlení po překročení základní lhůty**,
+
+**c) a zároveň tzv. stojné za blokaci kapacit Poskytovatele.**
+
+3.2
+
+Po dobu prodlení Klienta se Poskytovatel **nenachází v prodlení s termínem dodání díla**.
+
+3.3
+
+Prodlení Klienta delší než 30 dní zakládá právo Poskytovatele:
+
+- pozastavit práce,
+- jednostranně prodloužit termíny,
+- vyúčtovat doposud provedené práce,
+- odstoupit od Smlouvy a ponechat si veškeré přijaté platby jako náhradu.
+
+---
+
+### **4. Sankce za neoprávněné zásahy do díla**
+
+4.1
+
+Za zásah do díla se považuje jakákoliv úprava, kopírování, šíření, změna zdrojových kódů, zásah do webu, grafiky, aplikace nebo systému bez výslovného souhlasu Poskytovatele.
+
+4.2
+
+V případě neoprávněného zásahu ze strany Klienta je Poskytovatel oprávněn účtovat smluvní pokutu:
+
+**a) 10 000 Kč za každé jednotlivé porušení**,
+
+**b) plus náhradu škody související s opravou či uvedením do původního stavu**,
+
+**c) plus náklady třetích stran, pokud pomoc byla nutná k obnově systému**.
+
+4.3
+
+Pokud v důsledku zásahu dojde k výpadku webu, ztrátě dat či narušení bezpečnosti, odpovídá Klient za veškeré následky.
+
+---
+
+### **5. Sankce za porušení licenčních podmínek**
+
+5.1
+
+Klient nesmí:
+
+- používat dílo nad rámec poskytnuté licence,
+- šířit grafiku nebo zdrojové soubory třetím stranám,
+- upravovat dílo bez souhlasu Poskytovatele,
+- používat dílo po ukončení licence,
+- používat dílo k nezákonným účelům.
+
+5.2
+
+Porušení licenčních podmínek zakládá smluvní pokutu ve výši:
+
+**20 000 Kč za každé jednotlivé porušení**,
+
+**nebo až 100 % původní ceny díla**, dle rozhodnutí Poskytovatele.
+
+5.3
+
+Smluvní pokuta se vztahuje také na neoprávněné použití pracovních verzí, grafických návrhů či zdrojových souborů.
+
+---
+
+### **6. Sankce za dodání nelegálního, nepravdivého nebo licenčně vadného obsahu**
+
+6.1
+
+Klient odpovídá za zákonnost veškerých jím poskytnutých podkladů.
+
+6.2
+
+Poskytovatel může účtovat smluvní pokutu:
+
+**od 5 000 Kč do 50 000 Kč**,
+
+pokud Klient dodá obsah:
+
+- k němuž nemá autorská práva,
+- porušující práva třetích osob,
+- obsah nezákonný či nevhodný,
+- obsah, který způsobil škodu nebo právní riziko Poskytovateli.
+
+6.3
+
+Klient nese veškeré právní následky porušení autorských práv.
+
+---
+
+### **7. Sankce za zneužití služeb**
+
+7.1
+
+Za zneužití služeb se považuje zejména:
+
+- pokusy o hackování webu nebo serveru,
+- manipulace s administrací, kterou nebyl Klient pověřen,
+- zneužití přístupových údajů,
+- zásahy do serverové infrastruktury,
+- instalace škodlivého softwaru,
+- porušení bezpečnostních pravidel Poskytovatele.
+
+7.2
+
+Za zneužití služeb náleží smluvní pokuta:
+
+**50 000 Kč za porušení**,
+
+přičemž nárok na náhradu škody tím není dotčen.
+
+---
+
+### **8. Pozastavení služby jako sankční opatření**
+
+8.1
+
+Poskytovatel je oprávněn pozastavit poskytování služeb bez jakékoli odpovědnosti za škodu v těchto případech:
+
+- prodlení Klienta s platbou,
+- prodlení Klienta se součinností,
+- podezření na nelegální obsah,
+- porušení bezpečnostních pravidel,
+- zásah do díla nebo systému,
+- probíhající spor o náhradu škody způsobený Klientem.
+
+8.2
+
+Pozastavení služby nemá vliv na povinnost Klienta uhradit cenu za dosud poskytnuté služby.
+
+---
+
+### **9. Pravidlo o kumulaci sankcí**
+
+9.1
+
+Smluvní pokuty podle této části lze **uplatňovat vedle sebe**, pokud vzniklo více porušení povinností.
+
+9.2
+
+Uhrazení smluvní pokuty nezbavuje Klienta odpovědnosti za škodu ani povinnosti uhradit cenu služeb.
+
+---
+
+### **10. Splatnost sankcí**
+
+10.1
+
+Smluvní pokuta je splatná do **7 dnů** od doručení výzvy k úhradě.
+
+10.2
+
+Neuhrazením sankce vzniká další prodlení, na které se vztahují ustanovení o úrocích z prodlení.
+
+---
+
+### **11. Vymáhání a náklady spojené s vymáháním**
+
+11.1
+
+V případě, že Klient neuhradí sankci, cenu služeb či jinou dlužnou částku dobrovolně, je povinen uhradit i:
+
+- náklady právního zastoupení,
+- náklady inkasní agentury,
+- soudní poplatky a náklady řízení,
+- administrativní náklady Poskytovatele spojené s vymáháním.
+
+11.2
+
+Tyto náklady jsou splatné společně s dlužnou částkou a tvoří její příslušenství.
+
+---
+
+### **12. Právo na započtení sankcí**
+
+12.1
+
+Poskytovatel je oprávněn jednostranně započíst jakoukoli smluvní pokutu, náhradu škody či jiné sankce proti pohledávkám Klienta, a to i těm, které ještě nejsou splatné.
+
+12.2
+
+Klient není oprávněn bez souhlasu Poskytovatele započíst své pohledávky proti pohledávkám Poskytovatele.
+
+---
+
+### **13. Blokace díla a služeb do úplného uhrazení**
+
+13.1
+
+Poskytovatel je oprávněn **pozastavit poskytování služeb, přístupy, hosting, správu či předání díla**, pokud:
+
+- Klient neuhradil cenu služeb,
+- Klient neuhradil smluvní pokutu nebo sankci,
+- Klient neuhradil vícepráce, náklady či příslušenství pohledávky.
+
+13.2
+
+Po dobu blokace není Poskytovatel v prodlení s plněním a veškeré sjednané termíny se prodlužují.
+
+13.3
+
+Dílo nebude předáno, zpřístupněno ani exportováno, dokud nebudou uhrazeny **veškeré závazky Klienta**.
+
+---
+
+### **14. Opakované porušení povinností**
+
+14.1
+
+Pokud se Klient dopustí stejného porušení povinnosti opakovaně, je Poskytovatel oprávněn:
+
+- účtovat **dvojnásobnou výši smluvní pokuty**, nebo
+- účtovat **paušální pokutu 5 000 Kč za každé další porušení**,
+
+podle toho, která částka je pro Poskytovatele výhodnější.
+
+14.2
+
+Opakované porušení může být důvodem k okamžitému ukončení Smlouvy.
+
+---
+
+### **15. Trvání sankcí po ukončení smlouvy**
+
+15.1
+
+Ustanovení o smluvních pokutách, sankcích a náhradě škody **zůstávají v platnosti i po ukončení Smlouvy**.
+
+15.2
+
+Ukončení Smlouvy nemá vliv na povinnost Klienta:
+
+- uhradit sankce,
+- doplatit cenu služeb,
+- uhradit vícepráce a náklady,
+- nahradit škodu.
+
+---
+
+### **16. Sankce za neuhrazení zálohové faktury po schválení nabídky**
+
+16.1
+
+Odsouhlasením cenové nabídky vzniká smluvní vztah a závazek Klienta uhradit vystavenou zálohovou fakturu.
+
+16.2
+
+Pokud Klient schválí nabídku, ale **neuhradí zálohovou fakturu ve lhůtě splatnosti**, je Poskytovatel oprávněn účtovat smluvní pokutu:
+
+- **10 % z celkové ceny projektu**,
+- minimálně však **2 500 Kč**.
+
+16.3
+
+Sankce se účtuje za porušení povinnosti uhradit zálohu, a to i v případě, že Klient od spolupráce následně odstoupí.
+
+16.4
+
+Poskytovatel je dále oprávněn:
+
+- požadovat náhradu škody způsobenou rezervací kapacit,
+- vyúčtovat přípravné práce, které již započaly,
+- ukončit Smlouvu s okamžitou účinností.
+
+---
+
+### **17. Závěrečná ustanovení této části**
+
+17.1
+
+Smluvní pokuty jsou splatné bez ohledu na to, zda Klient využil výsledné dílo nebo službu.
+
+17.2
+
+Smluvní strany se výslovně dohodly, že výše smluvních pokut je přiměřená povaze poskytovaných služeb a rizikům spojeným s vývojem webových projektů, aplikací a designu.
+
+17.3
+
+Poskytovatel je oprávněn odmítnout uzavřít či pokračovat ve smluvním vztahu s Klientem, který se v minulosti dopustil porušení povinností nebo byl sankcionován.
+
+[↑ Zpět nahoru](#top)
+
+<a id="clanek-1-12"></a>
+## 7. SLA A TECHNICKÉ ZÁRUKY
+
+### **1. Úvodní ustanovení**
+
+1.1
+
+Tato část Obchodních podmínek stanovuje úroveň služeb (Service Level Agreement, dále jen „SLA“), technické záruky, dostupnost, reakční doby a pravidla údržby, která Poskytovatel poskytuje v rámci provozu webových stránek, e-shopů, webových aplikací a souvisejících služeb.
+
+1.2
+
+SLA se vztahuje pouze na služby, u nichž je sjednána jejich správa, údržba nebo hosting Poskytovatelem. Pokud hosting, server, doména nebo jiná infrastruktura není pod správou Poskytovatele, SLA se vztahuje pouze na části systému vytvořené Poskytovatelem, nikoli na externí služby.
+
+1.3
+
+SLA není zárukou nepřetržité dostupnosti a absolutní bezchybnosti systému, ale definuje rozsah odborné péče, kterou Poskytovatel poskytuje v rámci správy a technické podpory.
+
+---
+
+### **2. Dostupnost služeb (Availability)**
+
+2.1
+
+Poskytovatel usiluje o to, aby služby pod jeho správou byly dostupné na úrovni **99 % roční dostupnosti**, pokud není sjednáno jinak.
+
+2.2
+
+Do dostupnosti se nezapočítávají:
+
+a) plánované odstávky a údržba,
+
+b) odstávky třetích stran (hosting, server, CDN, DNS poskytovatel),
+
+c) omezení způsobená chybou Klienta,
+
+d) incidenty vzniklé v důsledku zásahu třetích osob,
+
+e) kybernetické útoky,
+
+f) vyšší moc (force majeure).
+
+2.3
+
+Poskytovatel není odpovědný za výpadky způsobené:
+
+- poskytovatelem hostingu či domény,
+- technologickou infrastrukturou, kterou nevlastní ani nespravuje,
+- selháním služeb třetích stran (API, platební brány, e-mailingové služby, pluginy).
+
+---
+
+### **3. Reakční a servisní doby**
+
+3.1
+
+Reakční doba představuje dobu, ve které Poskytovatel potvrdí přijetí hlášení incidentu od Klienta.
+
+3.2
+
+Servisní doba je doba, ve které Poskytovatel zahájí řešení incidentu.
+
+3.3
+
+Pokud není sjednáno jinak, platí následující:
+
+| Typ incidentu | Reakční doba | Zahájení řešení |
+| --- | --- | --- |
+| Kritický incident (výpadek webu, chyba bránící provozu e-shopu) | do 4 hodin | do 8 hodin |
+| Střední závažnost (významné chyby, nefunkční části systému) | do 1 pracovního dne | do 2 pracovních dnů |
+| Nízká závažnost (drobné chyby, kosmetické úpravy) | do 2 pracovních dnů | dle kapacit, zpravidla do 10 dnů |
+
+3.4
+
+Poskytovatel poskytuje technickou podporu v pracovní době:
+
+**Pondělí–Pátek, 9:00–17:00**, pokud není sjednáno jinak.
+
+3.5
+
+Havarijní režim mimo pracovní dobu je poskytován pouze v případě, že je sjednán paušál zahrnující „hotline“ podporu.
+
+---
+
+### **4. Monitoring a provozní dohled**
+
+4.1
+
+Poskytovatel může provádět monitoring dostupnosti, bezpečnosti nebo výkonu systému.
+
+4.2
+
+Monitoring může zahrnovat:
+
+- sledování uptime,
+- kontrolu funkčnosti serveru,
+- monitorování API,
+- základní bezpečnostní dohled.
+
+4.3
+
+Pokud monitoring odhalí kritickou závadu, Poskytovatel je oprávněn bezodkladně jednat, i bez pokynu Klienta.
+
+---
+
+### **5. Údržba, aktualizace a technické zásahy**
+
+5.1
+
+Poskytovatel je oprávněn provádět pravidelnou údržbu systémů, která může zahrnovat:
+
+- aktualizace CMS, pluginů, frameworků, knihoven,
+- bezpečnostní aktualizace,
+- optimalizace výkonu,
+- databázovou údržbu,
+- serverové úpravy.
+
+5.2
+
+Plánovaná údržba bude oznámena předem, pokud je to technicky možné.
+
+5.3
+
+Klient bere na vědomí, že aktualizace mohou způsobit krátkodobé omezení dostupnosti nebo změnu funkcionality.
+
+5.4
+
+Úpravy nebo aktualizace provedené bez souhlasu Poskytovatele ze strany Klienta nebo třetí osoby mohou SLA okamžitě zneplatnit.
+
+---
+
+### **6. Výjimky ze SLA**
+
+6.1
+
+SLA se nevztahuje na problémy způsobené:
+
+a) neodborným zásahem Klienta nebo třetí osoby,
+
+b) používáním nelegálních nebo nekompatibilních pluginů,
+
+c) překročením kapacity hostingu,
+
+d) úpravami, které Klient provedl bez souhlasu Poskytovatele,
+
+e) útokem typu DoS, malwarem nebo phishingem,
+
+f) změnami domény, DNS nebo hostingu bez oznámení,
+
+g) chybou technologie třetí strany,
+
+h) vypršením licencí nebo předplatného, které měl Klient uhradit.
+
+---
+
+### **7. Havarijní režim**
+
+7.1
+
+Havarijní incident je závada, která způsobí:
+
+- celkový výpadek webu nebo aplikace,
+- nefunkčnost objednávkového procesu,
+- nefunkčnost administrace e-shopu,
+- ztrátu dat.
+
+7.2
+
+V havarijním režimu Poskytovatel zahajuje řešení přednostně, dle svých technických a kapacitních možností.
+
+7.3
+
+Pokud chyba vznikla:
+
+- zásahem Klienta,
+- instalací nekompatibilního pluginu,
+- neuhrazením licence,
+- změnou hostingu Klientem,
+- chybou třetí strany,
+
+pak je zásah účtován dle hodinové sazby a vztah SLA se na incident nevztahuje.
+
+---
+
+### **8. Zodpovědnost a limity**
+
+8.1
+
+Poskytovatel odpovídá pouze za vlastní služby a nikoli za:
+
+- hosting poskytnutý třetí stranou,
+- e-mailingové služby třetích stran,
+- platební brány,
+- API integrace,
+- výpadky internetu,
+- výpadky serverů, které nevlastní ani nespravuje.
+
+8.2
+
+Maximální výše náhrady škody za porušení SLA je omezena:
+
+- u měsíčních paušálů: **do výše měsíčního plnění**,
+- u projektů: **do maximálně 5 % hodnoty projektu**.
+
+8.3
+
+Náhrada škody se neposkytuje za:
+
+- ušlý zisk,
+- ztrátu dat,
+- následné škody,
+- reputační škodu,
+- škodu způsobenou technickými omezeními třetích stran.
+
+---
+
+### **9. Odpovědnost Klienta**
+
+9.1
+
+Klient je povinen:
+
+- dodržovat technická doporučení Poskytovatele,
+- neprovádět úpravy bez souhlasu,
+- nezatěžovat systém neúměrným počtem požadavků,
+- udržovat své přístupové údaje v bezpečí,
+- zajistit úhradu všech licencí potřebných ke správě systému.
+
+9.2
+
+Poskytovatel nenese odpovědnost za škody vzniklé porušením těchto povinností.
+
+---
+
+### **10. Zánik SLA**
+
+10.1
+
+SLA pozbývá platnosti:
+
+- ukončením Smlouvy,
+- přerušením paušálu nebo předplatného,
+- neuhrazením faktury,
+- zásahem Klienta do systému.
+
+10.2
+
+Po zániku SLA poskytuje Poskytovatel technické zásahy pouze na základě individuální hodinové sazby.
+
+[↑ Zpět nahoru](#top)
+
+<a id="clanek-1-13"></a>
+## 8. SPOLUPRÁCE
+
+### **1. Úvodní ustanovení**
+
+1.1
+
+Tato část Obchodních podmínek upravuje způsob spolupráce mezi Poskytovatelem a Klientem, pravidla komunikace, postup při předávání díla, rozsah revizí a způsob řešení změn zadání v průběhu realizace služby.
+
+1.2
+
+Cílem této části je zajistit plynulý průběh projektu, předejít nedorozuměním a stanovit jasná pravidla, která jsou závazná pro obě smluvní strany.
+
+---
+
+### **2. Komunikace mezi smluvními stranami**
+
+2.1
+
+Smluvní strany komunikují především prostřednictvím:
+
+- e-mailové adresy uvedené ve Smlouvě,
+- projektového systému, který Poskytovatel může Klientovi zpřístupnit,
+- případně dalších kanálů, pokud jsou výslovně odsouhlaseny.
+
+2.2
+
+Za doručené se považují všechny e-mailové zprávy odeslané na adresu Klienta uvedenou ve Smlouvě, objednávce či registračním formuláři.
+
+2.3
+
+Klient je povinen kontrolovat svou e-mailovou schránku alespoň jednou denně v pracovní dny, pokud není sjednáno jinak.
+
+2.4
+
+Pokud Klient neodpoví na výzvu nebo dotaz Poskytovatele do **5 pracovních dnů**, má se za to, že:
+
+- **souhlasí** s navrženým postupem, nebo
+- bere na vědomí, že projekt je **pozastaven** jeho prodlením.
+
+---
+
+### **3. Povinnost součinnosti Klienta**
+
+3.1
+
+Klient je povinen poskytovat Poskytovateli včasnou a úplnou součinnost. To zahrnuje zejména:
+
+- dodání podkladů v požadovaném formátu,
+- poskytnutí přístupů k systémům a službám,
+- zapracování připomínek a schválení výstupů v přiměřené lhůtě,
+- zodpovězení dotazů nutných pro pokračování projektu.
+
+3.2
+
+Pokud Klient neposkytne součinnost ve sjednané lhůtě, považuje se za **v prodlení**, a Poskytovatel není v prodlení s dodáním díla ani v případě, že nedodržel původní termín z důvodu prodlení Klienta.
+
+3.3
+
+Prodlení Klienta může mít za následek:
+
+- pozastavení prací,
+- prodloužení termínů,
+- účtování stojného,
+- smluvní pokuty dle části „Sankce“.
+
+---
+
+### **4. Revize a schvalovací proces**
+
+4.1
+
+Revizí se rozumí drobná úprava výstupu, která nemění původní zadání ani rozsah projektu.
+
+4.2
+
+Poskytovatel poskytuje Klientovi **maximálně dvě revizní kola** na každou hlavní část díla (např. design webu, struktura e-shopu, návrh aplikace), pokud není ve Smlouvě sjednáno jinak.
+
+4.3
+
+Za revizi **se nepovažuje**:
+
+- změna logiky nebo funkčnosti,
+- přepracování schváleného designu na základě změny názoru,
+- rozšíření obsahu, který nebyl předán při zahájení projektu,
+- dodatečné požadavky, které přesahují schválené zadání,
+- tvorba textů nebo obsahu, pokud nebyla sjednána.
+
+4.4
+
+Po vyčerpání revizních kol je Poskytovatel oprávněn účtovat další úpravy jako **vícepráce** dle aktuálního ceníku.
+
+4.5
+
+Pokud Klient revize nebo návrh neodsouhlasí ani neodmítne do 5 pracovních dnů, má se za to, že:
+
+- byly revize **automaticky schváleny**,
+- projekt postupuje do další fáze.
+
+---
+
+### **5. Změny zadání během projektu**
+
+5.1
+
+Každá změna zadání po zahájení prací je považována za **změnový požadavek** (change request).
+
+5.2
+
+Změnový požadavek musí být odsouhlasen oběma stranami a může mít za následek:
+
+- navýšení ceny projektu,
+- prodloužení termínu dodání,
+- dodatečné práce mimo původní rozsah.
+
+5.3
+
+Dokud není změnový požadavek písemně schválen, Poskytovatel pokračuje podle původního zadání.
+
+---
+
+### **6. Předání díla a přejímací proces**
+
+6.1
+
+Dílo se považuje za předané:
+
+a) doručením hotového výstupu Klientovi e-mailem, odkazem nebo zpřístupněním na serveru,
+
+b) zpřístupněním systému, aplikace nebo webu pro testování,
+
+c) odevzdáním designových nebo grafických souborů.
+
+6.2
+
+Klient je povinen dílo otestovat a písemně potvrdit převzetí, nebo uplatnit připomínky nejpozději do:
+
+- **5 pracovních dnů** u menších projektů,
+- **10 pracovních dnů** u rozsáhlejších projektů.
+
+6.3
+
+Pokud Klient v této lhůtě neuplatní připomínky, má se za to, že dílo:
+
+- bylo **řádně předáno**,
+- bylo **bez výhrad akceptováno**,
+- splnilo svůj účel.
+
+6.4
+
+Po předání díla přechází odpovědnost za jeho obsah, provoz a správu na Klienta, pokud není sjednáno, že Poskytovatel poskytuje správu nebo hosting.
+
+---
+
+### **7. Pozastavení prací**
+
+7.1
+
+Poskytovatel je oprávněn pozastavit práce v případě:
+
+- prodlení Klienta s platbou,
+- nedodání podkladů,
+- neposkytnutí součinnosti,
+- nesouladu mezi realitou projektu a kapacitami Poskytovatele z důvodů na straně Klienta.
+
+7.2
+
+Pozastavení nemá povahu porušení smlouvy. Termíny se automaticky posouvají o dobu pozastavení + přiměřenou dobu na opětovné zahájení prací.
+
+---
+
+### **8. Zásahy třetích stran a omezení spolupráce**
+
+8.1
+
+Do díla nebo jeho technické části nesmí zasahovat žádná třetí osoba (programátor, grafik, webmaster), pokud to Poskytovatel písemně nepovolí.
+
+8.2
+
+Neautorizovaný zásah může způsobit:
+
+- ztrátu záruky na dílo,
+- zrušení SLA,
+- vznik škody, za kterou Poskytovatel nenese odpovědnost,
+- účtování oprav jako víceprací.
+
+---
+
+### **9. Archivace a uchování podkladů**
+
+9.1
+
+Poskytovatel není povinen uchovávat podklady, návrhy, zdrojové soubory nebo projektové materiály po dokončení díla, pokud není ve Smlouvě stanoveno jinak.
+
+9.2
+
+Zálohování hotového díla je odpovědností Klienta, není-li sjednáno, že jej provádí Poskytovatel.
+
+---
+
+### **10. Změny zadání a automatické navyšování ceny**
+
+10.1
+
+Za změnu zadání (change request) se považuje jakýkoli požadavek Klienta, který:
+
+- mění rozsah díla,
+- přidává nové funkce, prvky nebo obsah,
+- vyžaduje přepracování již schválené části díla,
+- nahrazuje původně dodané podklady novými,
+- mění technologii, platformu nebo rozsah integrací,
+- vyplývá z toho, že Klient dodal neúplné či nepravdivé informace.
+
+10.2
+
+Pokud změna zadání vyžaduje další pracovní čas nebo náklady Poskytovatele, je Poskytovatel oprávněn **automaticky navýšit cenu projektu**, a to:
+
+**a) podle své aktuální hodinové sazby**, nebo
+
+**b) procentuálně podle rozsahu změny**, nebo
+
+**c) vystavením nové cenové nabídky.**
+
+10.3
+
+Není-li výslovně sjednáno jinak, platí, že změna zadání:
+
+- **automaticky prodlužuje termín dokončení díla** o dobu nezbytnou k provedení změny + přiměřenou rezervu,
+- **není zahrnuta v původní ceně**,
+- je účtována jako vícepráce.
+
+10.4
+
+Poskytovatel není povinen provádět změnové požadavky, dokud Klient:
+
+- neodsouhlasí cenu víceprací,
+- nezaplatí případnou zálohu na vícepráce (pokud je vyžadována),
+- nedodá nové podklady nebo specifikaci.
+
+10.5
+
+Za změnu zadání se považuje také:
+
+- odsouhlasený design, který Klient chce následně přepracovat jiným stylem,
+- požadavek na další grafické varianty nad rámec sjednaného počtu,
+- doplnění funkce, která nebyla ve Smlouvě ani v zadání,
+- dodání podkladů v jiném formátu, který vyžaduje přepracování.
+
+10.6
+
+Pokud Klient odmítne navýšení ceny nebo nesouhlasí se změnovým rozsahem, Poskytovatel:
+
+- pokračuje v realizaci dle původního zadání, nebo
+- může práci pozastavit, pokud změnový požadavek znemožňuje pokračovat.
+
+10.7
+
+Náklady na vícepráce jsou splatné vždy **před jejich provedením**, pokud Poskytovatel nestanoví jinak.
+
+---
+
+[↑ Zpět nahoru](#top)
+
+<a id="clanek-1-14"></a>
+## 9. LICENCE A AUTORSKÁ PRÁVA
+
+### **1. Úvodní ustanovení**
+
+1.1
+
+Tato část Obchodních podmínek upravuje rozsah práv Klienta k dílu vytvořenému Poskytovatelem, podmínky užívání díla, omezení užívacích práv, pravidla pro nakládání se zdrojovými kódy, grafickými výstupy, dokumentací a dalšími duševními statky vzniklými v rámci poskytování služeb.
+
+1.2
+
+Veškeré výstupy vytvořené Poskytovatelem nebo jeho subdodavateli jsou chráněny zákonem č. 121/2000 Sb., autorský zákon. Poskytovatel je výhradním autorem díla, pokud není výslovně uvedeno jinak.
+
+---
+
+### **2. Autorská práva k dílu**
+
+2.1
+
+Veškeré návrhy, zdrojové kódy, grafika, wireframy, texty, skripty, databázové struktury, algoritmy, fotografie, návrhy logotypů, marketingové koncepty, funnel strategie a další výstupy (dále jen „Dílo“) jsou autorským dílem Poskytovatele.
+
+2.2
+
+Klient získává k Dílu pouze **licenci**, nikoli vlastnické právo.
+
+2.3
+
+Bez udělení licence není Klient oprávněn Dílo jakkoli užívat, upravovat, kopírovat, zpřístupňovat, poskytovat třetím osobám nebo šířit.
+
+---
+
+### **3. Rozsah licence**
+
+3.1
+
+Poskytovatel uděluje Klientovi po úhradě celé ceny Díla **nevýhradní licenci**, časově neomezenou, územně neomezenou, pokud není ve Smlouvě uvedeno jinak.
+
+3.2
+
+Licence zahrnuje právo:
+
+a) užít Dílo způsobem podle jeho povahy (např. provozovat web, e-shop či aplikaci),
+
+b) umístit web na server Klienta nebo třetí osoby,
+
+c) užít grafiku v rámci podnikání Klienta.
+
+3.3
+
+Licence **nezahrnuje** právo:
+
+- měnit zdrojové kódy,
+- zasahovat do struktury aplikace,
+- vytvářet odvozená díla bez souhlasu Poskytovatele,
+- poskytovat sublicence,
+- užít Dílo mimo sjednaný účel,
+- převést práva na třetí osobu bez souhlasu Poskytovatele.
+
+3.4
+
+Licence nabývá účinnosti okamžikem připsání **100% ceny Díla** na účet Poskytovatele.
+
+---
+
+### **4. Licence ke zdrojovým kódům**
+
+4.1
+
+Není-li ve Smlouvě výslovně sjednáno jinak, **zdrojové kódy nejsou součástí předání Díla** a nejsou poskytovány Klientovi.
+
+4.2
+
+Předání zdrojových kódů může být klientovi umožněno na základě:
+
+- samostatného licenčního ujednání,
+- úhrady jednorázového licenčního poplatku,
+- zvláštní smlouvy (tzv. „source code license“).
+
+4.3
+
+Klient není bez písemného souhlasu Poskytovatele oprávněn:
+
+- provádět úpravy kódu,
+- zadávat úpravy třetím osobám,
+- dekompilovat software,
+- obcházet technická opatření.
+
+4.4
+
+Porušení tohoto ustanovení se považuje za **závažné porušení Smlouvy** a zakládá nárok Poskytovatele na smluvní pokutu až do výše **200.000 Kč** nebo hodnoty projektu (podle toho, co je vyšší).
+
+---
+
+### **5. Licence ke grafickým výstupům**
+
+5.1
+
+Pokud je grafika součástí sjednaného plnění, Poskytovatel poskytuje Klientovi licenci k jejímu užívání pouze v rámci vlastního podnikání Klienta.
+
+5.2
+
+Licence **nezahrnuje** práva:
+
+- prodávat grafiku třetím osobám,
+- registrovat logo jako ochrannou známku bez souhlasu autora (pokud není ujednáno jinak),
+- poskytovat grafiku dalším firmám ve skupině nebo partnerům.
+
+5.3
+
+Zdrojové soubory (např. .AI, .PSD, .FIG, .SVG) se předávají pouze tehdy, bylo-li to **výslovně sjednáno**, jinak je Klient získává ve formě finálních exportů.
+
+---
+
+### **6. Licence ke knihovnám, pluginům a software třetích stran**
+
+6.1
+
+Dílo může obsahovat části, které jsou vytvořeny třetí stranou (např. open-source knihovny, pluginy, API služby, šablony). Tato část Díla se řídí licencí původního autora.
+
+6.2
+
+Poskytovatel odpovídá za legální užití pouze v okamžiku předání Díla.
+
+6.3
+
+Klient odpovídá za:
+
+- dodržování licenčních podmínek třetích stran,
+- úhradu licencí, které vyžadují pravidelnou platbu,
+- úhradu poplatků za prémiové pluginy, fonty nebo šablony, nebylo-li sjednáno jinak.
+
+6.4
+
+Poskytovatel nenese odpovědnost za změny licenčních podmínek třetích stran ani za funkčnost pluginů nebo nástrojů, které nejsou v jeho vlastnictví.
+
+---
+
+### **7. Zákazy užití a převod práv**
+
+7.1
+
+Klient není oprávněn:
+
+- užít Dílo k jinému účelu, než bylo sjednáno,
+- poskytnout Dílo třetí osobě,
+- kopírovat Dílo pro další projekty,
+- vystavovat Dílo volně ke stažení,
+- převádět licenci bez souhlasu Poskytovatele.
+
+7.2
+
+Porušení se považuje za **závažné porušení Smlouvy**.
+
+7.3
+
+Poskytovatel je oprávněn požadovat:
+
+- okamžité zastavení užívání Díla,
+- náhradu škody,
+- smluvní pokutu,
+- odebrání licence.
+
+---
+
+### **8. Ochrana brandu Poskytovatele**
+
+8.1
+
+Poskytovatel je oprávněn uvést realizované dílo ve svém portfoliu, marketingových materiálech a prezentacích, pokud není ve Smlouvě dohodnuto jinak.
+
+8.2
+
+Klient může požádat o anonymizaci projektu za poplatek.
+
+---
+
+### **9. Zánik licence**
+
+9.1
+
+Licence zaniká:
+
+- odstoupením od Smlouvy,
+- neuhrazením ceny Díla,
+- porušením licenčních podmínek Klientem.
+
+9.2
+
+Zánikem licence vzniká Poskytovateli právo:
+
+- zablokovat web, e-shop nebo přístup do systému,
+- stáhnout nebo deaktivovat dílo z hostingu,
+- vyžadovat odstranění všech kopií díla.
+
+---
+
+### **10. Odpovědnost za neoprávněné užití**
+
+10.1
+
+Užije-li Klient Dílo bez licence nebo nad rámec licence, je povinen zaplatit Poskytovateli:
+
+- smluvní pokutu ve výši **trojnásobku ceny Díla**,
+    
+    nebo nejméně **100.000 Kč**,
+    
+- plus náhradu škody v plné výši.
+
+10.2
+
+Ustanovení nevylučuje možnost soudního vymáhání.
+
+[↑ Zpět nahoru](#top)
+
+<a id="clanek-1-15"></a>
+## 10. REKLAMACE A SERVIS
+
+### **1. Úvodní ustanovení**
+
+1.1
+
+Tato část Obchodních podmínek upravuje podmínky uplatnění reklamace, odpovědnost Poskytovatele za vady díla, postup řešení závad a pravidla poskytování servisních služeb po předání díla.
+
+1.2
+
+Reklamace se vztahují pouze na vady díla, které existovaly v okamžiku předání, nebo které se projeví v záruční době, pokud je sjednána.
+
+1.3
+
+Servisní služby jsou samostatné placené služby, které nejsou součástí ceny díla, pokud není ve Smlouvě výslovně sjednáno jinak.
+
+---
+
+### **2. Odpovědnost za vady díla**
+
+2.1
+
+Poskytovatel odpovídá za to, že dílo v okamžiku předání:
+
+- odpovídá schválenému návrhu,
+- je funkční v rozsahu uvedeném ve Smlouvě,
+- je provedeno s odbornou péčí,
+- neobsahuje zjevné chyby.
+
+2.2
+
+Za vady se nepovažuje:
+
+- odlišné subjektivní estetické vnímání Klienta (např. „nelíbí se mi barva“, „layout působí jinak, než jsem si představoval“),
+- chyby způsobené zásahy Klienta nebo třetí osoby,
+- chyby způsobené změnou softwaru či pluginů třetí strany,
+- změny vyplývající z aktualizací systémů,
+- nesprávné užití díla Klientem,
+- chyby způsobené nedodáním kvalitních podkladů.
+
+2.3
+
+Poskytovatel neodpovídá za správnost textů, dat, fotografií a jiného obsahu dodaného Klientem.
+
+---
+
+### **3. Uplatnění reklamace**
+
+3.1
+
+Klient je povinen uplatnit reklamaci bez zbytečného odkladu po zjištění vady, a to:
+
+- písemně na e-mail Poskytovatele,
+- prostřednictvím projektového systému (pokud je využíván).
+
+3.2
+
+Reklamace musí obsahovat:
+
+- popis vady,
+- způsob projevu vady,
+- podmínky, za nichž se vada objevuje,
+- screenshoty, videa nebo jiné důkazy, pokud je to možné.
+
+3.3
+
+Poskytovatel je oprávněn odmítnout reklamaci, pokud:
+
+- je neúplná,
+- se nevztahuje na dílo,
+- jde o požadavek na vícepráce,
+- vada byla způsobena jednáním Klienta.
+
+---
+
+### **4. Lhůty pro řešení reklamací**
+
+4.1
+
+Poskytovatel započne posouzení reklamace do **5 pracovních dnů** ode dne doručení.
+
+4.2
+
+Doba odstranění vady závisí na její povaze a závažnosti; termín stanoví Poskytovatel individuálně.
+
+4.3
+
+Poskytovatel může rozhodnout, zda:
+
+- vadu odstraní opravou,
+- poskytne náhradní řešení,
+- nabídne slevu z ceny,
+- odmítne reklamaci (pokud je neoprávněná).
+
+4.4
+
+Lhůty pro řešení reklamace se **přerušují**, pokud Klient neposkytne nezbytnou součinnost, přístupy nebo informace.
+
+---
+
+### **5. Záruční doba**
+
+5.1
+
+Není-li ve Smlouvě sjednáno jinak, poskytuje Poskytovatel **záruku 30 dní** od předání díla.
+
+5.2
+
+Záruka se vztahuje pouze na:
+
+- funkčnost webu, aplikace nebo e-shopu dle zadání,
+- technické chyby vzniklé realizací Poskytovatele.
+
+5.3
+
+Záruka se **nevztahuje** na:
+
+- změny provedené Klientem nebo třetí stranou,
+- aktualizace CMS, pluginů, šablon nebo hostingového prostředí,
+- zásahy do databáze nebo kódu,
+- chyby vzniklé nevhodným použitím díla.
+
+---
+
+### **6. Servisní služby po předání**
+
+6.1
+
+Po uplynutí záruční doby poskytuje Poskytovatel servisní služby pouze na základě:
+
+- servisní smlouvy,
+- jednorázové objednávky,
+- hodinové sazby nebo paušálu.
+
+6.2
+
+Servisní služby mohou zahrnovat:
+
+- opravy chyb,
+- aktualizace systému,
+- úpravy obsahu,
+- technickou podporu,
+- monitorování,
+- obnovu dat,
+- řešení výpadků nebo havárií.
+
+6.3
+
+Práce provedené v rámci servisu jsou účtovány dle platného ceníku.
+
+---
+
+### **7. Výluky ze servisu**
+
+7.1
+
+Poskytovatel neposkytuje servis:
+
+- na systémy, které zásadně upravila třetí strana,
+- na instalace a pluginy, které si Klient sám nainstaloval,
+- pokud Klient používá nelegální, neaktualizovaný nebo nekompatibilní software,
+- pokud má Klient neuhrazené závazky vůči Poskytovateli.
+
+7.2
+
+Poskytovatel není zodpovědný za škody způsobené:
+
+- výpadky hostingu,
+- chybami externích služeb (API, platební brány, mailing systémy),
+- zásahy hackera, malwarem nebo bezpečnostními incidenty vzniklými mimo sféru Poskytovatele.
+
+---
+
+### **8. Náklady na neoprávněnou reklamaci**
+
+8.1
+
+Pokud se ukáže, že reklamace byla neoprávněná, je Klient povinen uhradit:
+
+- náklady na diagnostiku,
+- čas strávený řešením (dle hodinové sazby),
+- případné výjezdy nebo technické zásahy.
+
+---
+
+### **9. Zánik práva z reklamace**
+
+9.1
+
+Právo reklamovat zaniká, pokud:
+
+- Klient neuplatní reklamaci bez zbytečného odkladu po zjištění vady,
+- Klient sám zasáhl do Díla,
+- Klient umožnil zásah třetí osobě,
+- Klient změnil technické prostředí (hosting, PHP verzi, pluginy),
+- vada vznikla nesprávným použitím Díla.
+
+---
+
+### **10. Ukončení poskytování servisu**
+
+10.1
+
+Poskytovatel je oprávněn servisní služby ukončit, pokud:
+
+- Klient neplní své povinnosti,
+- Klient opakovaně porušuje licenční podmínky,
+- Klient nezaplatil servisní paušál nebo výjezdy,
+- Klient odmítá aktualizovat zastaralý systém, který neumožňuje bezpečný provoz.
+
+[↑ Zpět nahoru](#top)
+
+<a id="clanek-1-16"></a>
+## 11. UKONČENÍ SMLOUVY
+
+### **1. Úvodní ustanovení**
+
+1.1
+
+Tato část Obchodních podmínek upravuje způsoby ukončení smluvního vztahu mezi Poskytovatelem a Klientem, vypořádání smluvních stran po ukončení smlouvy, podmínky zániku užívacích práv a povinnosti spojené s archivací dat, přístupy a licencemi.
+
+1.2
+
+Ustanovení se vztahují na všechny smluvní vztahy uzavřené mezi Poskytovatelem a Klientem, bez ohledu na to, zda se jedná o smlouvu jednorázovou, dlouhodobou, projektovou, paušální či jinou.
+
+---
+
+### **2. Ukončení smlouvy dohodou**
+
+2.1
+
+Smluvní strany mohou ukončit Smlouvu kdykoli na základě **písemné dohody**.
+
+2.2
+
+Dohoda o ukončení musí upravit:
+
+- den ukončení smlouvy,
+- způsob vypořádání závazků,
+- předání nebo ukončení licencí,
+- případné doplatky nebo náhrady nákladů.
+
+---
+
+### **3. Ukončení smlouvy výpovědí**
+
+3.1
+
+Smlouvy uzavřené na dobu neurčitou mohou být ukončeny výpovědí.
+
+3.2
+
+Není-li ve Smlouvě uvedeno jinak, činí **výpovědní lhůta 30 dnů**, která začíná běžet prvním dnem měsíce následujícího po doručení výpovědi druhé straně.
+
+3.3
+
+Po dobu výpovědní lhůty:
+
+- Poskytovatel poskytuje služby v omezeném režimu,
+- Klient je povinen hradit sjednané ceny (paušály, provozní poplatky, servisní poplatky),
+- nejsou prováděny změny ani vícepráce, pokud není sjednáno jinak.
+
+---
+
+### **4. Okamžité ukončení smlouvy Poskytovatelem**
+
+Poskytovatel je oprávněn smlouvu **okamžitě ukončit**, pokud:
+
+**a)** je Klient v prodlení s úhradou jakékoli částky déle než **30 dní**,
+
+**b)** Klient neposkytuje součinnost déle než **30 dní**,
+
+**c)** Klient porušil licenční podmínky,
+
+**d)** Klient zasáhl nebo umožnil zásah třetí osoby do Díla bez souhlasu Poskytovatele,
+
+**e)** Klient porušil zásadní povinnosti dle Smlouvy nebo těchto Obchodních podmínek,
+
+**f)** Klient požaduje práce v rozporu se zákonem nebo etickým kodexem Poskytovatele,
+
+**g)** Klient jedná agresivně, urážlivě nebo narušuje činnost Poskytovatele,
+
+**h)** klient ohrožuje bezpečnost systému nebo infrastruktu ry Poskytovatele,
+
+**i)** Klient používá Dílo k nelegálním činnostem.
+
+4.2
+
+V případě okamžitého ukončení smlouvy z důvodů na straně Klienta:
+
+- **pozbývá licence platnosti**,
+- Poskytovatel je oprávněn **odepřít nebo zablokovat přístup** do systému, administrace či kódu,
+- Poskytovatel je oprávněn **ponechat si uhrazené zálohy** jako smluvní odškodnění,
+- Klient je povinen **uhradit dosud vykonané práce**,
+- Poskytovatel je oprávněn požadovat **smluvní pokuty a náhradu škody**.
+
+---
+
+### **5. Okamžité ukončení smlouvy Klientem**
+
+Klient je oprávněn smlouvu okamžitě ukončit pouze tehdy, pokud:
+
+**a)** Poskytovatel ani po písemné výzvě neplní své povinnosti déle než 30 dní,
+
+**b)** Poskytovatel zásadně porušil Smlouvu a náprava nebyla sjednána,
+
+**c)** Poskytovatel úmyslně způsobil vadu díla nebo škodu.
+
+5.2
+
+Klient není oprávněn odstoupit od Smlouvy z důvodu:
+
+- subjektivních změn požadavků,
+- změny podnikatelského záměru,
+- nepředvídaných nákladů na straně Klienta,
+- nespokojenosti, která není vadou díla,
+- nedodání podkladů z jeho strany.
+
+---
+
+### **6. Vypořádání závazků po ukončení smlouvy**
+
+6.1
+
+Ukončením Smlouvy nezaniká povinnost Klienta uhradit:
+
+- neuhrazené faktury,
+- smluvní pokuty,
+- vícepráce,
+- doplatky za provedené práce,
+- náklady na licencované pluginy a služby třetích stran.
+
+6.2
+
+Poskytovatel je oprávněn pozastavit předání podkladů, dat nebo exportů do doby úplného vypořádání všech finančních závazků Klienta.
+
+---
+
+### **7. Archivace a předání dat**
+
+7.1
+
+Po ukončení smlouvy Poskytovatel není povinen uchovávat:
+
+- zdrojové kódy,
+- grafické návrhy,
+- přístupové údaje,
+- databáze,
+- projektové soubory.
+
+7.2
+
+Poskytovatel může na žádost Klienta provést archivaci nebo export dat jako **placenou službu** dle ceníku.
+
+7.3
+
+Není-li sjednáno jinak, archivace je poskytována **maximálně 14 dní od ukončení smlouvy**.
+
+---
+
+### **8. Zánik licence po ukončení smlouvy**
+
+8.1
+
+Ukončením Smlouvy zanikají veškeré licence udělené Klientovi, pokud:
+
+- licence byla udělena pouze pro dobu trvání smlouvy, nebo
+- smlouva byla ukončena z důvodu porušení povinností Klienta.
+
+8.2
+
+V takovém případě je Klient povinen:
+
+- odstranit dílo z webu, serveru nebo aplikace,
+- přestat jej užívat,
+- odstranit grafické materiály a loga, pokud není udělena trvalá licence.
+
+---
+
+### **9. Přechod k jinému dodavateli**
+
+9.1
+
+Poskytovatel není povinen spolupracovat s novým dodavatelem Klienta po ukončení smlouvy.
+
+9.2
+
+Pokud Klient požaduje předání know-how, zdrojových kódů, dokumentace nebo technické spolupráce s třetí osobou, jedná se o **placenou službu**, která se řídí individuálním ceníkem.
+
+---
+
+### **10. Účinnost ukončení smlouvy**
+
+10.1
+
+Smlouva se považuje za ukončenou dnem:
+
+- doručení okamžité výpovědi,
+- uplynutím výpovědní lhůty,
+- dnem uvedeným v dohodě o ukončení,
+- dnem uvedeným v odstoupení, pokud jsou splněny podmínky pro odstoupení.
+
+10.2
+
+Ukončení smlouvy nemá vliv na:
+
+- nároky na zaplacení ceny,
+- smluvní pokuty,
+- náhradu škody,
+- práva a povinnosti, které mají dle své povahy trvat i po ukončení smlouvy.
+
+---
+
+### **11. Finanční vypořádání při ukončení smlouvy**
+
+11.1
+
+**Veškeré platby uhrazené Klientem jsou nevratné**, pokud není ve Smlouvě výslovně uvedeno jinak. To platí zejména pro:
+
+- zálohy,
+- doplatky,
+- paušální platby,
+- licenční poplatky,
+- servisní poplatky,
+- úhrady za vícepráce.
+
+11.2
+
+Uhrazené částky představují:
+
+- rezervaci kapacit Poskytovatele,
+- úhradu již provedených prací,
+- krytí nákladů na přípravu projektu,
+- licenční a provozní výdaje,
+- ztrátu z nerealizované zakázky.
+
+Z těchto důvodů **nedochází k jejich vrácení ani v případě, že Klient odstoupí od Smlouvy, ukončí spolupráci, změní záměr, nebo se rozhodne dílo dále nevyužívat**.
+
+11.3
+
+V případě ukončení Smlouvy z důvodů na straně Klienta (např. prodlení s platbou, neposkytnutí součinnosti, porušení licenčních podmínek, změna zadání, odstoupení bez důvodu):
+
+- **uhrazené částky propadají Poskytovateli**,
+- Klient je povinen **uhradit všechny dosud vzniklé náklady**,
+- Poskytovatel je oprávněn **účtovat vícepráce a náklady** vzniklé před ukončením smlouvy,
+- Poskytovatel není povinen dílo dokončit, zpřístupnit ani předat.
+
+11.4
+
+Pokud Poskytovatel smlouvu ukončí z důvodů porušení povinností Klienta, má právo:
+
+- ponechat si všechny již uhrazené částky,
+- vyúčtovat práce provedené do okamžiku ukončení,
+- požadovat náhradu škody nebo smluvní pokutu.
+
+11.5
+
+Klient bere na vědomí, že:
+
+- **změna podnikatelského plánu**,
+- **změna interních rozhodnutí**,
+- **nevyužití díla**,
+- **ztráta zájmu o projekt**,
+- **neschopnost dodat podklady**,
+- **neschopnost financovat projekt**,
+
+**nezakládají právo na vrácení plateb**.
+
+11.6
+
+Pokud Klient požaduje ukončení Smlouvy před dokončením projektu, je povinen:
+
+- uhradit **celý sjednaný rozpočet**, nebo
+- uhradit **80 % sjednané ceny**, minimálně však
+- všechny provedené práce + blokaci kapacit (stojné),
+
+podle toho, která částka je vyšší.
+
+11.7
+
+Poskytovatel může v odůvodněných případech přípustit individuální finanční dohodu, není k tomu však povinen.
+
+[↑ Zpět nahoru](#top)
+
+<a id="clanek-1-17"></a>
+## 12. BEZPEČNOST DAT
+
+### **1. Úvodní ustanovení**
+
+1.1
+
+Tato část upravuje pravidla pro bezpečné nakládání s daty, přístupovými údaji, dokumenty, technickými informacemi a souvisejícími procesy mezi Poskytovatelem a Klientem.
+
+1.2
+
+Bezpečnost dat je společnou odpovědností Poskytovatele i Klienta. Porušení bezpečnostních pravidel může vést k okamžitému pozastavení služeb nebo i k ukončení Smlouvy.
+
+---
+
+### **2. Odpovědnost za uchovávání přístupových údajů**
+
+2.1
+
+Klient je povinen zabezpečit veškeré přístupové údaje, které mu byly Poskytovatelem sděleny nebo k nimž má přístup.
+
+2.2
+
+Klient nesmí poskytovat přístupové údaje třetím osobám, pokud to není výslovně odsouhlaseno Poskytovatelem.
+
+2.3
+
+Jakékoli zneužití přístupových údajů třetí osobou jde **výhradně k tíži Klienta**.
+
+---
+
+### **3. Přístupy k serverům, doménám, hostingům a účtům**
+
+3.1
+
+Poskytovatel je oprávněn požadovat od Klienta přístupové údaje nezbytné pro realizaci díla.
+
+3.2
+
+Klient odpovídá za to, že jeho hosting, server či reklamní účet je technicky zabezpečený, aktualizovaný a splňuje minimální bezpečnostní standardy.
+
+3.3
+
+Porucha, výpadek nebo hack způsobený nastavením hostingu Klienta **není poruchou díla** ani závadou způsobenou Poskytovatelem.
+
+---
+
+### **4. Ochrana dat během spolupráce**
+
+4.1
+
+Poskytovatel přijímá přiměřená technická a organizační opatření k zabezpečení dat.
+
+4.2
+
+Poskytovatel však **není odpovědný za škody způsobené:**
+
+- nedbalostí Klienta,
+- slabým nebo nezabezpečeným hostingem,
+- únikem dat z důvodů na straně Klienta,
+- používáním nelegálních pluginů nebo doplňků,
+- chybnými zásahy Klienta nebo třetích osob.
+
+4.3
+
+Klient bere na vědomí, že **žádný digitální systém není 100% bezpečný**, a Poskytovatel neposkytuje absolutní záruku ochrany před kybernetickými útoky.
+
+---
+
+### **5. Zpracování dat třetích stran**
+
+5.1
+
+Poskytovatel zpracovává osobní údaje pouze v rozsahu nezbytném k plnění Smlouvy a v souladu s kapitolou GDPR.
+
+5.2
+
+Klient odpovídá za to, že při předání dat třetích osob má splněny všechny zákonné povinnosti, zejména informování subjektů údajů.
+
+---
+
+### **6. Bezpečnostní incidenty**
+
+6.1
+
+Klient je povinen neprodleně informovat Poskytovatele o jakémkoli podezření na:
+
+- únik dat,
+- napadení webu,
+- neoprávněný přístup,
+- narušení integrity systému.
+
+6.2
+
+Poskytovatel může v případě bezpečnostního incidentu:
+
+- okamžitě pozastavit služby,
+- zablokovat přístupy,
+- uvést systém do nouzového režimu,
+- účtovat náklady na obnovu systému.
+
+6.3
+
+Pokud byl incident způsoben Klientem nebo jeho dodavatelem, nese Klient veškeré náklady.
+
+---
+
+### **7. Odpovědnost za ztrátu dat**
+
+7.1
+
+Poskytovatel není odpovědný za ztrátu dat Klienta, pokud ztráta vznikla:
+
+- chybou Klienta,
+- chybou jeho hostingu,
+- nedostatečným zabezpečením,
+- zásahy třetích osob pověřených Klientem,
+- nesprávným použitím díla.
+
+7.2
+
+Poskytovatel odpovídá za běžná zálohovací opatření pouze v rozsahu sjednaném ve Smlouvě.
+
+7.3
+
+Není-li sjednáno jinak, **Poskytovatel nezajišťuje žádné dlouhodobé zálohování**.
+
+---
+
+### **8. Povinnost Klienta chránit své systémy**
+
+8.1
+
+Klient je povinen zajistit:
+
+- aktuální verzi CMS / frameworku,
+- aktualizaci pluginů, modulů a šablon,
+- zabezpečený hosting,
+- bezpečná hesla a dvoufaktorové ověřování,
+- používání legálních licencí.
+
+8.2
+
+Porušení těchto povinností může vést k sankci dle části „Sankce za zneužití služeb“ nebo „Sankce za zásah do díla“.
+
+---
+
+### **9. Zachování důvěrnosti**
+
+9.1
+
+Smluvní strany jsou povinny zachovávat mlčenlivost o neveřejných informacích a technických údajích.
+
+9.2
+
+Za porušení mlčenlivosti může Poskytovatel účtovat pokutu podle sankční části.
+
+---
+
+### **10. Ukončení smlouvy z bezpečnostních důvodů**
+
+10.1
+
+Pokud Klient dlouhodobě nedodržuje bezpečnostní pravidla, je Poskytovatel oprávněn smlouvu okamžitě ukončit.
+
+10.2
+
+Nevzniká přitom povinnost vracet jakékoli platby.
+
+[↑ Zpět nahoru](#top)
