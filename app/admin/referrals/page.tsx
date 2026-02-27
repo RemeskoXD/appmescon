@@ -9,9 +9,6 @@ import {
   User, 
   Mail, 
   Phone,
-  CheckCircle,
-  XCircle,
-  Clock
 } from "lucide-react";
 
 interface Referral {
