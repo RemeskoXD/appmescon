@@ -3,16 +3,10 @@
 import { useState, useEffect } from "react";
 import { useParams, useRouter } from "next/navigation";
 import { 
-  MessageSquare, 
-  User, 
-  Clock, 
-  AlertCircle, 
   CheckCircle, 
   ArrowLeft,
   Loader2,
-  Save,
   Building2,
-  Shield,
   Send
 } from "lucide-react";
 

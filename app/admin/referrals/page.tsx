@@ -8,7 +8,7 @@ import {
   Building2, 
   User, 
   Mail, 
-  Phone,
+  Phone
 } from "lucide-react";
 
 interface Referral {

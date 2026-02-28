@@ -1,22 +1,13 @@
-import type { NextConfig } from 'next';
+import type {NextConfig} from 'next';
 
 const nextConfig: NextConfig = {
   env: {
     NEXTAUTH_URL: process.env.APP_URL || 'http://localhost:3000',
   },
   reactStrictMode: true,
-
-  // --- HLAVNÍ ZMĚNA ZDE ---
-  // Původně jsi tu měl false. Změnil jsem to na true.
   typescript: {
-    ignoreBuildErrors: true,
+    ignoreBuildErrors: false,
   },
-  // Přidal jsem i toto, aby build nespadl na formátovacích chybách (linting).
-  eslint: {
-    ignoreDuringBuilds: true,
-  },
-  // ------------------------
-
   // Allow access to remote image placeholder.
   images: {
     remotePatterns: [
@@ -30,9 +21,9 @@ const nextConfig: NextConfig = {
   },
   output: 'standalone',
   transpilePackages: ['motion'],
-  webpack: (config, { dev }) => {
+  webpack: (config, {dev}) => {
     // HMR is disabled in AI Studio via DISABLE_HMR env var.
-    // Do not modify—file watching is disabled to prevent flickering during agent edits.
+    // Do not modifyâfile watching is disabled to prevent flickering during agent edits.
     if (dev && process.env.DISABLE_HMR === 'true') {
       config.watchOptions = {
         ignored: /.*/,

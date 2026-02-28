@@ -8,15 +8,12 @@ import {
   Shield, 
   Code, 
   DollarSign, 
-  Calendar, 
   User, 
   ArrowLeft,
   Loader2,
   ExternalLink,
   Save,
-  AlertTriangle,
-  CheckCircle,
-  Clock
+  AlertTriangle
 } from "lucide-react";
 
 interface WebsiteDetail {
