@@ -203,7 +203,7 @@ export default function RegisterPanel({ open = true, onClose }: RegisterPanelPro
                       onChange={e => setPhone(e.target.value)}
                       className="w-full rounded-lg bg-[#181c27] border border-[#273042] px-3 py-2.5 text-sm text-slate-200 placeholder-slate-500 focus:outline-none focus:ring-2 focus:ring-accent-500/60"
                       placeholder="+420 777 000 000"
-            pattern="^[+0-9()\s-]{7,}$"
+            pattern="^[+0-9()\\s\\-]{7,}$"
                     />
                   </div>
                   <div className="space-y-2">

@@ -15,8 +15,20 @@ const nextConfig: NextConfig = {
         protocol: 'https',
         hostname: 'picsum.photos',
         port: '',
-        pathname: '/**', // This allows any path under the hostname
+        pathname: '/**',
       },
+      {
+        protocol: 'https',
+        hostname: 'image.thum.io',
+        port: '',
+        pathname: '/**',
+      },
+      {
+        protocol: 'https',
+        hostname: 'web2.itnahodinu.cz',
+        port: '',
+        pathname: '/**',
+      }
     ],
   },
   output: 'standalone',

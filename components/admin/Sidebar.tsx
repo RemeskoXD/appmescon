@@ -14,21 +14,36 @@ import {
   FileText, 
   LogOut,
   Menu,
-  X
+  X,
+  PieChart,
+  AppWindow,
+  Info,
+  Target,
+  FileBox,
+  Briefcase,
+  Code
 } from "lucide-react";
 import { useState } from "react";
 import { signOut } from "next-auth/react";
 
 const menuItems = [
   { name: "Přehled", href: "/admin", icon: LayoutDashboard, roles: ["ADMIN", "MODERATOR", "SUPPORT", "SALES_OP", "DEVELOPER_OP"] },
-  { name: "Leady", href: "/admin/leads", icon: UserPlus, roles: ["ADMIN", "MODERATOR", "SALES_OP"] },
   { name: "Zákazníci", href: "/admin/customers", icon: Users, roles: ["ADMIN", "MODERATOR", "SUPPORT", "SALES_OP", "SALES_JUNIOR"] },
+  { name: "Leady", href: "/admin/leads", icon: UserPlus, roles: ["ADMIN", "MODERATOR", "SALES_OP"] },
   { name: "Weby", href: "/admin/websites", icon: Globe, roles: ["ADMIN", "MODERATOR", "SUPPORT", "SALES_OP", "DEVELOPER_OP"] },
-  { name: "Doporučení", href: "/admin/referrals", icon: UserPlus, roles: ["ADMIN", "MODERATOR", "SALES_OP"] },
-  { name: "Tým", href: "/admin/team", icon: Shield, roles: ["ADMIN"] },
-  { name: "Provize", href: "/admin/commissions", icon: Wallet, roles: ["ADMIN", "MODERATOR", "SALES_OP", "EXTERNAL"] },
+  { name: "Portfolio", href: "/admin/portfolio", icon: Globe, roles: ["ADMIN", "MODERATOR", "SALES_OP"] },
   { name: "Tickety", href: "/admin/tickets", icon: MessageSquare, roles: ["ADMIN", "MODERATOR", "SUPPORT"] },
+  { name: "Provize", href: "/admin/commissions", icon: Wallet, roles: ["ADMIN", "MODERATOR", "SALES_OP", "EXTERNAL"] },
   { name: "Fakturace", href: "/admin/invoices", icon: FileText, roles: ["ADMIN", "SALES_OP"] },
+  { name: "Finance statistiky", href: "/admin/finance", icon: PieChart, roles: ["ADMIN", "MODERATOR"] },
+  { name: "Aplikace", href: "/admin/apps", icon: AppWindow, roles: ["ADMIN", "MODERATOR", "DEVELOPER_OP"] },
+  { name: "Tým", href: "/admin/team", icon: Shield, roles: ["ADMIN"] },
+  { name: "Uživatelé", href: "/admin/users", icon: Users, roles: ["ADMIN", "MODERATOR"] },
+  { name: "Informace pro tým", href: "/admin/wiki", icon: Info, roles: ["ADMIN", "MODERATOR", "SUPPORT", "SALES_OP", "SALES_JUNIOR", "DEVELOPER_OP", "DEVELOPER_JUNIOR", "DESIGNER", "PECE"] },
+  { name: "Cíle společnosti", href: "/admin/goals", icon: Target, roles: ["ADMIN", "MODERATOR", "SALES_OP", "DEVELOPER_OP"] },
+  { name: "Dokumenty", href: "/admin/documents", icon: FileBox, roles: ["ADMIN", "MODERATOR", "SALES_OP", "DEVELOPER_OP"] },
+  { name: "Pro Sales", href: "/admin/sales", icon: Briefcase, roles: ["ADMIN", "MODERATOR", "SALES_OP", "SALES_JUNIOR"] },
+  { name: "Pro Developery", href: "/admin/developers", icon: Code, roles: ["ADMIN", "MODERATOR", "DEVELOPER_OP", "DEVELOPER_JUNIOR"] },
 ];
 
 export default function Sidebar() {

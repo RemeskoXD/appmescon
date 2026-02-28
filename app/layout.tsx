@@ -8,6 +8,8 @@ import InitialLoader from '../components/InitialLoader';
 import { SpeedInsights } from '@vercel/speed-insights/next';
 import { Analytics } from '@vercel/analytics/next';
 import { Providers } from './providers';
+import Script from 'next/script';
+import CookieConsent from '../components/CookieConsent';
 
 const inter = Inter({ subsets: ['latin'] });
 const jetbrainsMono = JetBrains_Mono({ subsets: ['latin'], variable: '--font-mono' });
@@ -37,15 +39,15 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'MESCON - Digitální transformace a vývoj softwaru',
-    description: 'Komplexní IT řešení pro vaše podnikání. Od webových stránek po robustní podnikové systémy.',
+    description: 'Komplexní IT řešení pro vaše podnikání. Od webových stránek po robustní podnikové systémy a e-shopy. Pomáháme firmám růst v digitálním světě.',
     url: 'https://www.mescon.cz',
-    siteName: 'MESCON',
+    siteName: 'MESCON Digital',
     images: [
       {
-        url: 'https://web2.itnahodinu.cz/mescon/images/og-image.jpg', // Placeholder, should be replaced with real OG image if available
+        url: 'https://web2.itnahodinu.cz/mescon/images/og-image.jpg',
         width: 1200,
         height: 630,
-        alt: 'MESCON Digital',
+        alt: 'MESCON Digital - Vývoj softwaru na míru',
       },
     ],
     locale: 'cs_CZ',
@@ -54,8 +56,8 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'MESCON - Digitální transformace',
-    description: 'Komplexní IT řešení pro vaše podnikání.',
-    images: ['https://web2.itnahodinu.cz/mescon/images/og-image.jpg'], // Placeholder
+    description: 'Komplexní IT řešení pro vaše podnikání. Od webových stránek po robustní podnikové systémy.',
+    images: ['https://web2.itnahodinu.cz/mescon/images/og-image.jpg'],
   },
   robots: {
     index: true,
@@ -101,11 +103,38 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         ],
         contactPoint: {
           '@type': 'ContactPoint',
-          telephone: '+420 123 456 789', // Placeholder
+          telephone: '+420 722 171 131',
+          email: 'info@mescon.cz',
           contactType: 'customer service',
           areaServed: 'CZ',
-          availableLanguage: 'Czech',
+          availableLanguage: ['Czech', 'English'],
         },
+        employee: [
+          {
+            '@type': 'Person',
+            name: 'Václav Gabriel',
+            jobTitle: 'CEO',
+            image: 'https://web2.itnahodinu.cz/mescon/images/2.jpg'
+          },
+          {
+            '@type': 'Person',
+            name: 'Ludvík Remešek',
+            jobTitle: 'CIO',
+            image: 'https://web2.itnahodinu.cz/mescon/images/3.jpg'
+          },
+          {
+            '@type': 'Person',
+            name: 'Václav Rajchart',
+            jobTitle: 'CSL',
+            image: 'https://web2.itnahodinu.cz/mescon/images/4.jpg'
+          },
+          {
+            '@type': 'Person',
+            name: 'Marek Bednář',
+            jobTitle: 'Deputy Head',
+            image: 'https://web2.itnahodinu.cz/mescon/images/5.jpg'
+          }
+        ]
       },
       {
         '@type': 'WebSite',
@@ -127,17 +156,72 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="cs" className="h-full">
       <head>
+        {/* Google Consent Mode Default */}
+        <Script id="consent-mode" strategy="beforeInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('consent', 'default', {
+              'ad_storage': 'denied',
+              'ad_user_data': 'denied',
+              'ad_personalization': 'denied',
+              'analytics_storage': 'denied'
+            });
+          `}
+        </Script>
+
+        {/* Google Tag Manager */}
+        <Script id="google-tag-manager" strategy="afterInteractive">
+          {`
+            (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-M55BSG8S');
+          `}
+        </Script>
+
+        {/* Microsoft Clarity */}
+        <Script id="microsoft-clarity" strategy="afterInteractive">
+          {`
+            (function(c,l,a,r,i,t,y){
+                c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+                t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+                y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+            })(window, document, "clarity", "script", "vkcdgizifh");
+          `}
+        </Script>
+
+        {/* Google Analytics */}
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-EQKTR2VNJS"
+          strategy="afterInteractive"
+        />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'G-EQKTR2VNJS');
+          `}
+        </Script>
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
         />
       </head>
       <body className={`${inter.className} ${jetbrainsMono.variable} min-h-full text-slate-200 antialiased selection:bg-[#5885fa]/30`}>
+        <noscript>
+          <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M55BSG8S"
+          height="0" width="0" style={{ display: 'none', visibility: 'hidden' }}></iframe>
+        </noscript>
         <Providers>
           <InitialLoader />
           <Header />
           <main className="pt-[58px] pb-20 lg:pb-0 min-h-screen">{children}</main>
           <Footer />
+          <CookieConsent />
           <Analytics />
           <SpeedInsights />
         </Providers>

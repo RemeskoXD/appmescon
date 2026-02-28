@@ -47,8 +47,8 @@ export async function POST(req: Request) {
     }
 
     return NextResponse.json({ message: "Registrace úspěšná", userId }, { status: 201 });
-  } catch (error) {
+  } catch (error: any) {
     console.error("Registration error:", error);
-    return NextResponse.json({ error: "Interní chyba serveru" }, { status: 500 });
+    return NextResponse.json({ error: "Interní chyba serveru", details: error.message }, { status: 500 });
   }
 }

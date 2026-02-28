@@ -8,8 +8,13 @@ export async function GET(
   { params }: { params: Promise<{ id: string }> }
 ) {
   const session = await getServerSession(authOptions);
-  if (!session || session.user.role !== 'ADMIN') {
+  if (!session) {
     return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
+  }
+
+  const allowedRoles = ["ADMIN", "MODERATOR", "SUPPORT", "SALES_OP", "SALES_JUNIOR", "DEVELOPER_OP", "DESIGNER", "PECE"];
+  if (!allowedRoles.includes(session.user.role)) {
+    return NextResponse.json({ error: "Forbidden" }, { status: 403 });
   }
 
   const { id: customerId } = await params;

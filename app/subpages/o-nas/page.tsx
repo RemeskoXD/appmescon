@@ -9,28 +9,28 @@ function TeamLayout() {
     {
       name: "Václav Gabriel",
       position: "CEO",
-      photo: "/assets/2.jpg",
+      photo: "https://web2.itnahodinu.cz/mescon/images/2.jpg",
       bio: "Vede strategii a směřování Mesconu. Propojuje obchodní cíle s technologickou vizí.",
       skills: ["Leadership", "Strategy", "Enterprise Delivery"]
     },
     {
       name: "Ludvík Remešek", 
       position: "CIO",
-      photo: "/assets/3.jpg",
+      photo: "https://web2.itnahodinu.cz/mescon/images/3.jpg",
       bio: "Řídí informační systémy a bezpečnost, dohlíží na data governance a infrastrukturu.",
       skills: ["Security", "Data Governance", "Cloud Architecture"]
     },
     {
       name: "Václav Rajchart",
       position: "CSL",
-      photo: "/assets/4.jpg",
+      photo: "https://web2.itnahodinu.cz/mescon/images/4.jpg",
       bio: "Zodpovídá za obchodní rozvoj a partnerství. Přináší Mescon ke klíčovým klientům.",
       skills: ["Sales Leadership", "Partnerships", "Go-to-market"]
     },
     {
       name: "Marek Bednář",
       position: "Deputy Head",
-      photo: "/assets/5.jpg",
+      photo: "https://web2.itnahodinu.cz/mescon/images/5.jpg",
       bio: "Koordinuje delivery tým a hlídá kvalitu projektů, SLA a provozní stabilitu.",
       skills: ["Project Delivery", "Ops", "Quality"]
     }
